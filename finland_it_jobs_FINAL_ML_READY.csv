@@ -1,0 +1,830 @@
+Job_Title,Company,Location,Date_Posted,Skills_Domain,Role_Category,Salary_Info,Source
+Python Backend Developer,Congrid (SmartCraft Group),Remote Finland,,"SQL, PostgreSQL, RESTful APIs, Docker, AWS, CI/CD, React/TypeScript",Backend Development,Not specified,Glassdoor
+IAM Systems Administrator,Not specified,Finland,,"IAM products, Python, SQL, Linux, Golang, Microsoft Azure, Swedish skills",Cybersecurity,Not specified,itjobs.ai
+Doctoral Researcher - Cell Biology,Not specified,Finland,,"Python programming, cell culture, molecular biology",AI/ML,Not specified,itjobs.ai
+Python Software Developer (Robotics),Not specified,Joensuu,,"TensorFlow, Machine Learning, Linux, Deep Learning, Robotics, SLAM, Arduino, Embedded, Nvidia Jetson, Keras, Docker, Django, Python, SQL, Flask, Git, ROS, Computer Science, AWS, Computer Vision, MQTT, PyTorch, OpenCV, Scrum",AI/ML,Not specified,itjobs.ai
+Test Automation Engineer (GUI/API/DB),Not specified,Finland,,"API, Jenkins, SQL, Python, Linux, CI/CD, XML, Unix, Debugging, Robot Framework, JSON, Git",QA/Testing,Not specified,itjobs.ai
+Jr Test Automation Engineer (Banking),Not specified,Helsinki,,"Test automation, banking sector",QA/Testing,Not specified,itjobs.ai
+Backend Developer (Python/Rust),Not specified,Finland,,"Python, Rust, high-availability, low-latency backend services",Backend Development,Not specified,englishjobs.fi
+Backend Developer (Client Projects),Not specified,Finland,,"Backend systems, reliable and maintainable architecture",Backend Development,Not specified,englishjobs.fi
+Backend Developer (Multi-stack),Not specified,Finland,,"Node.js, Python, Java, .NET",Backend Development,Not specified,englishjobs.fi
+Backend Developer (Compliance),Not specified,Helsinki (Remote),,"Node.js, TypeScript, backend systems, 3+ years experience",Backend Development,Not specified,englishjobs.fi
+Backend Developer (Securitization),Not specified,Finland,,"Python, backend functionalities, 3+ years experience",Backend Development,Not specified,englishjobs.fi
+Java Backend Developer,Not specified,Helsinki,,"Java, REST APIs",Backend Development,Not specified,englishjobs.fi
+Senior Java Developer / Tech Lead,SEB,Finland,,"Java 25, Quarkus, Hexagonal Architecture, 7+ years experience",Backend Development,Not specified,englishjobs.fi
+Senior Java Engineer (10+ years),Not specified,Finland,,"Java, 10+ years senior-level expertise",Backend Development,Not specified,englishjobs.fi
+Middleware Systems Engineer,Not specified,Finland,,"Linux, Windows Server, Java middleware configuration",IT Support/Systems,Not specified,englishjobs.fi
+GIS Software Engineer,Not specified,Finland,,"Python, GIS algorithms, cloud environments",Software Development,Not specified,englishjobs.fi
+Senior Software Engineer (ECM Products),Not specified,Finland,,"C#, .NET Core, ASP.NET Core, REST API, Microsoft Azure, MS SQL, TDD",Backend Development,Not specified,englishjobs.fi
+System Software Engineering Manager (Graphics),Not specified,Finland,,"Graphics systems, engineering management",Software Development,Not specified,englishjobs.fi
+AI-driven Software Engineer (Python),Unikie,Finland,,"Python, AI-driven software, modern code practices",AI/ML,Not specified,englishjobs.fi
+Python Developer (Web Apps),Not specified,Finland,,"Full Stack development, Python, 4+ years experience",Full Stack Development,Not specified,englishjobs.fi
+Member of Technical Staff - Python/Linux/Kubernetes,Wind River,Finland,,"Python, Linux, Kubernetes expert-level",DevOps/Cloud,Not specified,englishjobs.fi
+Senior Software Developer (8+ years),Not specified,Finland,,"Python programming, 8+ years professional experience",Software Development,Not specified,englishjobs.fi
+Test Systems Engineer (WATS),Not specified,Finland,,"WATS system, REST, Python",QA/Testing,Not specified,englishjobs.fi
+Python Student Project Developer,Not specified,Finland,,"Python programming, OAMK student project",Software Development,Not specified,englishjobs.fi
+Senior Python Developer (Consulting),Not specified,Finland,,"Python, client collaboration, multiple industries",Software Development,Not specified,englishjobs.fi
+Python SaaS Developer,Not specified,Finland,,"Python, SaaS applications at scale, 4+ years experience",Backend Development,Not specified,englishjobs.fi
+Backend Engineer (Kotlin & Python/Go),Discovery,Finland,,"Kotlin, Python, Go, high-performance backend services",Backend Development,Not specified,englishjobs.fi
+AWS Backend Developer (C#/.NET),Not specified,Finland,,"AWS core services, C#, .NET Core",Backend Development,Not specified,englishjobs.fi
+Senior Backend Developer (Digital Marketplace),Not specified,Finland (Hybrid),,"Backend development, digital marketplace, millions of users",Backend Development,Not specified,englishjobs.fi
+Developer Relations / Community Manager,Not specified,Finland,,"Developer relations, community management, 5+ years experience",Software Development,Not specified,englishjobs.fi
+Firmware Developer,Not specified,Finland,,"Firmware development, engineering team",Embedded/IoT,Not specified,englishjobs.fi
+Staff Frontend Engineer,Not specified,Finland,,"Frontend expertise, state management, micro-frontend architectures",Frontend Development,Not specified,englishjobs.fi
+Frontend Developer (MQTT),Safegrid,Turku,,"Vue.js, React, MQTT-based communication and messaging architectures",Frontend Development,Not specified,englishjobs.fi
+Data Developer Experience Engineer,Not specified,Finland,,"Columnar databases/storage, MPP engines, developer experience",Data Engineering,Not specified,englishjobs.fi
+Full Stack Developer (IR Software),Inderes,Helsinki,,"React, TypeScript, Next.js, Tailwind CSS, Node.js, Firestore",Full Stack Development,Not specified,englishjobs.fi
+Senior Fullstack Developer (AI-assisted),Not specified,Espoo,,"AI-assisted engineering, agentic engineering practices",Full Stack Development,Not specified,englishjobs.fi
+Traceability Systems Engineer,Not specified,Finland,,"SYS.2 traceability, customer requirements, software systems",Software Development,Not specified,englishjobs.fi
+Software Architect (Product Development),Not specified,Finland,,"Software architecture, world-class systems design",Software Development,Not specified,englishjobs.fi
+Flight/Mission Software Test Engineer,Not specified,Finland,,"Flight software, test automation, ground segment",QA/Testing,Not specified,englishjobs.fi
+Platform Engineer (Developer Experience),Not specified,Finland,,"Platform delivery, developer experience improvement",DevOps/Cloud,Not specified,englishjobs.fi
+SRE/Cloud/Systems Engineer,Not specified,Finland,,"Site Reliability Engineering, Cloud Engineering, Systems Engineering",DevOps/Cloud,Not specified,englishjobs.fi
+Product Engineer (You Build It You Run It),Multitude,Finland,,"Product engineering, ownership mindset",Software Development,Not specified,englishjobs.fi
+R&D Software Engineer (Semiconductor/Embedded),Swedium Global,Finland,,"Semiconductor Engineering R&D, Embedded Systems Development, Custom Application Software",Embedded/IoT,Not specified,englishjobs.fi
+Test Automation/Scripting Engineer,Not specified,Finland,,"Test automation, scripting skills",QA/Testing,Not specified,englishjobs.fi
+Senior Software Engineer (Salary Benchmark),Not specified,Finland,,"Software engineering, compensation benchmarking",Software Development,€5300-6500/month (Senior); €6200-7400/month (Lead),englishjobs.fi
+AI-native Backend Software Engineer,Not specified,Finland,,"Backend development, AI-native approach, Suppliers team",Backend Development,Not specified,englishjobs.fi
+Process Development Engineer (P-Series),Not specified,Finland,,"Process development, fixed-term parental leave cover",Embedded/IoT,Not specified,englishjobs.fi
+Data Analyst (Statutory Reporting),Pohjola Vakuutus,Helsinki,,"Insurance Data Capabilities, statutory reporting",Data Analytics,Not specified,Duunitori
+Development Manager - Data Analytics/Modeling,Experis,Helsinki,,"Data analytics, modeling management",Data Analytics,Not specified,Jobly
+Master Data Maintenance Specialist,NG Nordic Finland,Riihimäki,,Master data management,Data Analytics,Not specified,itduunit.fi
+Privacy & Data Protection Analyst,Revvity,Turku,,"Data privacy, protection analysis",Data Analytics,Not specified,itduunit.fi
+"UX Designer (Espoo, fixed salary)",Not specified,Espoo,,"UX design, portfolio-based hiring, 3-4 interview rounds",UI/UX Design,"€55,000-63,000/year",Glassdoor
+UI Designer (Frontend crossover),Not specified,Finland,,"HTML, CSS, JavaScript, React, Vue, Angular, Redux, Vuex, Zustand, SASS, LESS, Webpack, Vite",UI/UX Design,Not specified,Glassdoor
+UI Designer (Game/Unity),Not specified,Finland,,"C#, Unity, client-facing UI features, animations",UI/UX Design,Not specified,Glassdoor
+UX Architect / Interaction Designer,Not specified,Finland,,"UX architecture, interaction design, UI design, 5+ years, 3+ years shaping product",Glassdoor,UI/UX Design,
+UX/UI Designer (Martech),Not specified,Finland,,"UX/UI design, mobile-first web design",UI/UX Design,Not specified,Glassdoor
+Game UI/UX Designer (Remote),Not specified,Finland (Remote),,"UI, UX, game design, technical implementation",UI/UX Design,Not specified,Glassdoor
+Senior Product Manager (Quantum),IQM,Finland,,"Product lifecycle, MVPs, R&D collaboration, 5+ years experience",Product Management,Not specified,englishjobs.fi
+Product Engineering Manager - Electrical,Not specified,Baden CH / Espoo FI,,Electrical product design and engineering management,Product Management,Not specified,englishjobs.fi
+Product Manager (Fastening Accessories),Not specified,Riihimäki,,Product category management Finland,Product Management,Not specified,englishjobs.fi
+UI/UX Designer (average salary benchmark),Not specified,Finland,,UI/UX design market rate,UI/UX Design,"€40,000-100,000/year (SheCodes estimate)",shecodes.io
+"Product Owner (Scrum, average salary)",Not specified,Finland,,"Scrum, Product Owner responsibilities",Project Management,"€82,801/year average (~€40/hour)",erieri.com
+UX Designer (average salary benchmark),Not specified,Finland,,UX design market rate,UI/UX Design,"€43,886/year average (PayScale)",payscale.com
+Full Stack Engineer (AI-assisted),Not specified,Finland,,"AI-assisted and agent-based development, product/design collaboration",Full Stack Development,Not specified,Glassdoor
+QA Team Member (Cross-training),Visual Components,Finland,,"QA task sharing, cross-team adaptability",QA/Testing,Not specified,Glassdoor
+Security Engineer (SOC Advisory),Not specified,Finland,,"SOC teams, threat remediation, security workflows, cybersecurity/SaaS",Cybersecurity,Not specified,Glassdoor
+Incident Response Specialist,Not specified,Finland,,"5+ years hands-on incident response, company-wide incidents",Cybersecurity,Not specified,Glassdoor
+Security Automation Engineer (SOC/CERT),Telia,Finland,,"Protective/detective security controls automation, SOC/CERT",Cybersecurity,Not specified,Glassdoor
+Security-aware Test Engineer,Not specified,Finland,,"IPsec, PKI, ciphers, security-first testing mindset",QA/Testing,Not specified,Glassdoor
+Senior SOC Analyst,Not specified,"Helsinki, Uusimaa",,Security Operations Center analysis,Cybersecurity,Not specified,LinkedIn
+Cyber Security Engineer,Not specified,Kuopio,,Cybersecurity engineering,Cybersecurity,Not specified,LinkedIn
+Cryptography and Security Engineer (Freelance/Remote),Not specified,Helsinki (Remote),,"Cryptography, security engineering",Cybersecurity,Not specified,LinkedIn
+Security Engineer - Ubuntu,Not specified,Helsinki,,"Ubuntu, Linux security engineering",Cybersecurity,Not specified,LinkedIn
+Linux Cryptography and Security Engineer,Not specified,Helsinki,,"Linux, cryptography, security engineering",Cybersecurity,Not specified,LinkedIn
+Cloud Security Engineer,Not specified,Finland,,Cloud security engineering,Cybersecurity,Not specified,LinkedIn
+Cloud Security Architect,Not specified,Finland,,Cloud security architecture,Cybersecurity,Not specified,LinkedIn
+Cyber Defense Developer,Not specified,"Helsinki, Uusimaa",,Cyber defense development,Cybersecurity,Not specified,LinkedIn
+Application Security Analyst (Mobile),Not specified,Finland,,"Android, iOS security, penetration testing, 5+ years experience",Cybersecurity,Not specified,Glassdoor
+OT Cybersecurity Architect,Not specified,Tampere,,Operational Technology cybersecurity architecture,Cybersecurity,Not specified,LinkedIn
+Cyber Security Specialist,Not specified,"Helsinki, Tampere, Oulu",,"Cybersecurity specialist role, multi-location",Cybersecurity,Not specified,LinkedIn
+OT Cybersecurity Consultant,Not specified,Helsinki,,Operational Technology cybersecurity consulting,Cybersecurity,Not specified,LinkedIn
+Product Compliance Engineer - Cyber Security,Not specified,Helsinki,,"Product compliance, cybersecurity",Cybersecurity,Not specified,LinkedIn
+Lead Cyber Security & SCADA Engineer,Not specified,Tampere,,"SCADA systems, cybersecurity leadership",Cybersecurity,Not specified,LinkedIn
+"Senior Security Engineer (Remote, SOC2/ISO)",UserGems,Finland (Remote),,"SOC 2, ISO audits, AI governance strategy",Cybersecurity,"€121,000-202,000/year range",remoterocketship.com
+Senior IT Security Engineer (Identity/Endpoint),Solana Foundation,Finland (Remote),,"Identity, endpoint, SaaS security, global team",Cybersecurity,"€121,000-202,000/year range",remoterocketship.com
+Security Engineer (AWS/AI),CINC Systems,Finland (Remote),,"Application security, AWS security, AI-enabled products",Cybersecurity,"€121,000-202,000/year range",remoterocketship.com
+Offensive Security Lead (Red Team),Nebius,Finland (Remote),,"Penetration testing, red team, AI cloud infrastructure security",Cybersecurity,"€121,000-202,000/year range",remoterocketship.com
+Senior IT Security Engineer (Compliance),NEAR Foundation,Finland (Remote),,"Information security program, security engineering, compliance",Cybersecurity,"€121,000-202,000/year range",remoterocketship.com
+ML Platform Engineer,NestAI,Finland,,"ML/LLM production deployment, Kubernetes, cloud-native inference, Python, TypeScript, DevOps mindset",AI/ML,,Glassdoor
+Data Scientist (Quantitative),Not specified,Finland,,"3+ years data science/ML, quantitative analysis",Data Science,,Glassdoor
+Generative AI Engineer,Not specified,Finland,,"Production-grade AI, generative AI, LLMs, multimodal foundation models",AI/ML,,Glassdoor
+AI Performance Engineer,Not specified,Finland,,"ML model optimization, profiling, bottleneck analysis, GPU mapping",AI/ML,,Glassdoor
+Data Engineer + Applied ML,Not specified,Finland,,"Data engineering, applied machine learning, full stack development",Data Engineering,,Glassdoor
+AI Factory Hub Coordinator,Not specified,Otaniemi,,"AI operations coordination, community building",AI/ML,,Glassdoor
+Video Generation ML Engineer,Not specified,Finland,,"Video generation, deep expertise required",AI/ML,,Glassdoor
+ML Research Engineer (LLMs),Not specified,Finland,,"ML research, distributed training, infrastructure for LLMs, deep learning",AI/ML,,Glassdoor
+Machine Learning Engineer,Siili,Finland,,"AI-assisted development, collaboration with Data Engineering team",AI/ML,,Glassdoor
+Data Scientist / ML Engineer (Applied),Not specified,Finland,,5+ years data science/applied ML,Data Science,,Glassdoor
+ML Engineer (NLP),Not specified,Finland,,"Machine learning modeling, natural language processing",AI/ML,,Glassdoor
+Computer Vision Engineer (Eye Tracking),Not specified,Finland,,"Python, data pipeline, ML, computer vision algorithms",AI/ML,,englishjobs.fi
+AI Research Scientist,Not specified,Finland,,"LLMs, multimodal language models, computer vision, GenAI",AI/ML,,englishjobs.fi
+ML Scientist (Computer Vision),Not specified,Finland,,"Computer vision for resource-constrained devices (mobile, IoT, embedded)",AI/ML,,englishjobs.fi
+Machine Learning Engineer (On-site),Vivicta,Espoo,,"Python, ML frameworks, AWS/Azure/GCP, data pipelines, SQL/NoSQL",AI/ML,,meetfrank.com
+ML Software Engineer,Smartly.io,Helsinki,,"MLOps, data platform, generative AI, NLP, computer vision",AI/ML,,meetfrank.com
+(Senior) Engineering Manager - AI/ML Team,Sievo,Helsinki,,"AI/ML engineering team leadership, management experience",AI/ML,,jobsinhelsinki.com
+Senior IT Developer - Data Engineering & Warehousing,Group Technology,Helsinki,,"Python, SQL, Cloud",Data Engineering,,jobsinhelsinki.com
+Senior Cloud Engineer,Supercell,Helsinki,,"Cloud Team infrastructure, onsite full-time",DevOps/Cloud,,englishjobs.fi
+Senior Fullstack Engineer - AI & Internal Tooling,Academic Work Finland Oy,Finland,,"Full-stack development, AI tooling",AI/ML,,englishjobs.fi
+Computer Vision Engineer / ML Engineer,Not specified,Finland,,"Computer vision, machine learning",AI/ML,,englishjobs.fi
+Senior Data Center Operations Engineer,Not specified,Finland,,Data center operations management,IT Support/Systems,,englishjobs.fi
+Senior Software Engineer - Protocol Stack,Not specified,Finland,,"Protocol stack development, highly skilled software engineering",Software Development,,englishjobs.fi
+Senior Software Engineer (Telemetry),Not specified,Espoo,,"Satellite telemetry, Fleet Automation infrastructure",Software Development,,englishjobs.fi
+ERP System Owner (Maconomy),Not specified,Finland,,"Maconomy ERP, system ownership, superuser expertise",IT Support/Systems,,Glassdoor
+Technology Adoption Consultant,Not specified,Finland,,"Technology initiatives, business-goal alignment",Project Management,,Glassdoor
+Solutions Engineering Technical Consultant,Not specified,Finland,,"Part-time, hybrid, technology financials, deal value understanding",Project Management,,Glassdoor
+SAP Supply Chain Consultant,EY,Finland,,"SAP, Supply Chain, hybrid work model",IT Support/Systems,,Glassdoor
+ERP Project Director,Gofore,Finland,,"Business + IT knowledge, human-centered change leadership",Project Management,,Glassdoor
+IT Specialist (General),Not specified,Finland,,"General IT specialist role, multiple openings (139 jobs)",IT Support/Systems,,Glassdoor
+Solution Architect (AI/Agentic Systems),Tether,Finland,,"Integration architecture, APIs, microservices, CI/CD, Azure/AWS/GCP certifications, RAG, vector databases",DevOps/Cloud,,Glassdoor
+Solution Architect,NVIDIA,Finland,,"Best-in-class engineering, latest technologies",DevOps/Cloud,,Glassdoor
+Forward Deployed Engineer (Agentic AI),Salesforce,Finland,,"Agentic AI solutions, enterprise deployment",AI/ML,,Glassdoor
+Senior Data/AI Architect,Not specified,Finland,,"5+ years data/analytics/AI delivery, agentic AI, LLM-driven automation, multi-agent systems",AI/ML,,Glassdoor
+Solutions Architect (Data & AI),Microsoft,Finland,,"Microsoft Fabric, Azure Databricks, Microsoft Purview, Azure SQL, PostgreSQL, MySQL, Cosmos DB",DevOps/Cloud,,Glassdoor
+Solutions Architect (New Grad Rotation),Not specified,Finland,,"Cloud/infrastructure technologies, IT consulting, systems administration",DevOps/Cloud,,Glassdoor
+Solution Architect (Costing/Financial Modelling),Hansen Technologies,Finland,,"Solution costing, financial modelling, proposal development",Project Management,,Glassdoor
+Solutions Architect (NVIDIA New Grad),NVIDIA,Helsinki,,"Python, C/C++, Machine Learning, HPC, Deep Learning, Data Science, Visual Computing",AI/ML,,Glassdoor
+Enterprise Architect (5 years),Not specified,Finland,,"5 years enterprise-architecture experience, organisation-wide impact",DevOps/Cloud,,Glassdoor
+Technical Architect (Sales Support),Not specified,Finland,,"Solutions architecting, mid-to-enterprise sales cases",DevOps/Cloud,,Glassdoor
+Software Architect (5+ years),Not specified,Finland,,5+ years architect/senior software engineering experience,Software Development,,Glassdoor
+Security Architect (Enterprise Integration),Not specified,Finland,,"Security integration, enterprise and solution architectures",Cybersecurity,,Glassdoor
+Enterprise System Architect,Not specified,Finland,,"Large entity architecture design, multiple software applications",DevOps/Cloud,,Glassdoor
+Senior Distributed Systems Architect (Banking),Not specified,Finland,,"Complex distributed systems, banking, payments, financial services",Software Development,,Glassdoor
+AI/Data Architect (Large-scale),Not specified,Finland,,"AI/Data architectures, large-scale enterprise environments",AI/ML,,Glassdoor
+Solutions/System Engineer (7+ years),Not specified,Finland,,"7+ years Solutions/System Engineer, technical presentation skills",Software Development,,Glassdoor
+Enterprise Architect (Healthcare),Tietoevry Care,Finland,,"Healthcare product offerings, patient-focused solutions",IT Support/Systems,,Glassdoor
+Enterprise Architect (Sustainability Focus),NCC,Finland,,"Sustainability, digitalization, innovation architecture",DevOps/Cloud,,Glassdoor
+IT Architects (Helsinki),Not specified,Helsinki,,"Legacy IT, enterprise solutions, feasibility studies, agile teams",DevOps/Cloud,,englishjobs.fi
+IT Integration Manager,Not specified,Vantaa,,"File transfer integration, event-based integration platforms",IT Support/Systems,,englishjobs.fi
+ITSM Solution Architect,Not specified,Finland,,IT Service Management solution architecture,IT Support/Systems,,englishjobs.fi
+ITSM/AIOps Architect,Not specified,Helsinki or Tampere,,"ITSM, AIOps architecture",DevOps/Cloud,,englishjobs.fi
+Information Security Architect,Not specified,Finland,,Information security development responsibility,Cybersecurity,,englishjobs.fi
+IT Architect (SAP BW/HANA),Not specified,Finland,,"BW on HANA, BW4HANA, SAP Analytics Cloud, BW ABAP, BO, Qlik, Scrum/SAFe",IT Support/Systems,,jobsportal.fi
+Enterprise Architect,Not specified,Kuopio,,Enterprise architecture role,DevOps/Cloud,,findjobsinfinland.fi
+Automotive Software Requirements Engineer,Basemark,Finland,,"ASPICE Software Engineering processes, 5+ years, requirement reviews facilitation",Software Development,,englishjobs.fi
+Automotive Traceability Engineer (SYS.2),Not specified,Finland,,"Bi-directional traceability, Customer Requirements SYS.2, automotive software",Software Development,,englishjobs.fi
+Senior Computer Vision Engineer (Automotive),Not specified,Finland,,"Computer vision, graphics, automotive project frontier technology",AI/ML,,englishjobs.fi
+Telecom Infrastructure Engineer (5G),Not specified,Finland,,"5G technology, telecommunications infrastructure, fiber network",Networking,,Wikipedia/telecom report
+Data Center Infrastructure Sales Engineer,Google,Finland,,"Power transmission, telecommunications, data centers, TSO/DSO energy markets",DevOps/Cloud,,Glassdoor
+VR/AR/MR Programmer,Not specified,Helsinki,,"Unity, C#, VR/AR/MR development, games industry crossover skills",Game Development,,gamesjobsdirect.com
+AR Development Engineer (3D Engines),Not specified,Finland,,"Unity, Unreal Engine, AR development, hand tracking, voice recognition",Game Development,,fivr.fi
+AR/VR Digital Producer/Project Manager,Stereoscape,Finland,,"3D/AR/MR/VR technologies, interactive virtual solutions, B2B clients",Project Management,,fivr.fi
+Senior AR Game Developer,Valo Motion,Espoo,,"AR game concepts, active games technology, hardware manufacturing",Game Development,,fivr.fi
+Unity/VR Developer (XR Applications),Not specified,Finland,,"Unity, Unreal Engine, XR/AR/VR application development, Azure/AWS/GCP",Game Development,,ziprecruiter.com
+Simulation Engineer (Unity/AR/VR),Not specified,Finland,,"Unity, C#, simulation, AR/VR technologies, scalable systems",Game Development,,ziprecruiter.com
+VR Educational Content Developer,Not specified,Finland,,"Unity, VR environment design, interactive laboratory activities",Game Development,,ziprecruiter.com
+GIS Backend Developer (Geospatial),Not specified,Finland,,"Java, 5+ years development, geospatial backend systems",Backend Development,,Glassdoor
+GIS/Remote Sensing AI Developer,Not specified,Joensuu,,"AI, machine learning, remote-sensing, GIS, data analytics, forestry intersection",AI/ML,,englishjobs.fi
+GIS Data Processing Solutions Developer,Not specified,Finland,,"AI-based remote-sensing, GIS data-processing solutions development",Data Engineering,,englishjobs.fi
+Unity Careers - Games/Tools (Helsinki),Unity Technologies,Helsinki,,"Unity engine development, games industry tools",Game Development,,unity.com
+Blockchain Backend Developer (C++),Tether,Finland,,"C++, OS, Cryptography, Networking primitives, NodeJS native addons",Backend Development,,web3.career
+Blockchain Wallets Engineering Manager,Tether,Finland,,"Non-custodial crypto ecosystem, team management, SDK compatibility",Backend Development,,web3.career
+Web3 Fintech Localization Specialist,Not specified,Finland,,"Fintech, cryptocurrency, DeFi, Blockchain knowledge, localization",Software Development,,web3.career
+Data Privacy Specialist (Blockchain/Crypto),Blockchain.com,Finland,,"Data subject rights, GDPR compliance, data protection audits",Cybersecurity,,builtin.com
+GIS Researcher (Structural Geology/3D Modelling),Not specified,Finland,,"Structural geology, quaternary geology, 3D modelling, geophysics",AI/ML,,Glassdoor
+AI-Driven Landscape Design Researcher,Aalto University,Finland,,"AI-Driven Processes, Dynamic Landscapes, Architecture department research",AI/ML,,Glassdoor
+3PL Logistics Site Engineer,Not specified,Finland,,"3PL logistics, continuous improvement, innovation implementation",IT Support/Systems,,Glassdoor
+Cloud Developer (Azure/AWS),Not specified,Finland,,"Azure, AWS, client product development",DevOps/Cloud,,Glassdoor
+Cloud Infrastructure Engineer,Not specified,Finland,,"Kubernetes, containerization, GPU/compute strategy, FinOps",DevOps/Cloud,,Glassdoor
+Cloud Tooling Engineer,Not specified,Finland,,"Cloud/Kubernetes certifications, infrastructure tooling",DevOps/Cloud,,Glassdoor
+Cloud Team Lead,Not specified,Finland,,"Distributed cloud-native applications, AWS, Azure",DevOps/Cloud,,Glassdoor
+Data Team Growth Lead,Gofore,Finland,,Data team growth strategy,Data Engineering,,Glassdoor
+Cloud/AI Platform Engineer,Not specified,Finland,,"AWS, Azure, Google Cloud Platform, MLOps, CI/CD, containers",DevOps/Cloud,,Glassdoor
+AI Platform Architect,Not specified,Finland,,"Public-cloud-first AI platform, Azure AI Foundry",AI/ML,,Glassdoor
+Cloud-Native AI Engineer,Not specified,Finland,,"Azure AI Foundry, Amazon Bedrock, Databricks, Snowflake",AI/ML,,Glassdoor
+Cloud Security Specialist (CSSLP),Not specified,Finland,,"ISC2 CSSLP certification, cloud security",Cybersecurity,,Glassdoor
+FinOps Cloud Engineer,Not specified,Finland,,"FinOps practices, cost-effective cloud solutions",DevOps/Cloud,,Glassdoor
+Data Platform Architect,Not specified,Finland,,"Data mesh, data warehousing, AWS/Azure cloud solutions",Data Engineering,,Glassdoor
+Data Architect (Real-time Big Data),Not specified,Finland,,"Real-time big data, low latency analytics",Data Engineering,,Glassdoor
+IAM Modernization Consultant,Not specified,Finland,,"Identity Access Management, hybrid cloud operations, risk/compliance",Cybersecurity,,Glassdoor
+Cloud Solutions Engineer,Visma Solutions,Finland,,"Financial administration, payroll systems, Nordic software group",DevOps/Cloud,,Glassdoor
+Cloud Data Engineer/Architect,Not specified,Helsinki,,"Public cloud (Azure/AWS), Data Engineer/Architect experience",Data Engineering,,Glassdoor
+Quantum Computing Software Engineer,IQM,Finland,,"On-premises full-stack quantum computers, security policy compliance",Software Development,,Glassdoor
+Lead Developer,Not specified,Helsinki,,"Full software development lifecycle, team leadership",Software Development,,englishjobs.fi
+Senior Software Developer,Bluefors,Helsinki,,Calculation and business logic development,Software Development,,englishjobs.fi
+Platform Runtime Architect,Not specified,Finland,,"Computing Platform runtime, developer-facing APIs, distributed systems",Software Development,,englishjobs.fi
+DevOps Team Lead (Cross-border),Not specified,Finland,,"Cross-border DevOps team, messaging services",DevOps/Cloud,,englishjobs.fi
+SRE / Cloud Engineer,Not specified,Finland,,"Site Reliability Engineering, Cloud Engineering, 2+ years",DevOps/Cloud,,englishjobs.fi
+Cybersecurity Consultant (Risk Advisory),American International Group (AIG),Finland,,"Ransomware TTPs, cyber risk advisory, cloud security, quantum computing awareness",Cybersecurity,,Glassdoor
+Offensive Security Specialist,Not specified,Espoo or Turku,,"Information security, offensive security, security testing",Cybersecurity,,Glassdoor
+Third-Party Cybersecurity Risk Manager,Not specified,Finland,,"Vendor risk management, security compliance, regulatory requirements",Cybersecurity,,Glassdoor
+Information Security Risk Manager,Not specified,Finland,,"Cloud environment security, information security risk management",Cybersecurity,,Glassdoor
+Security Assessment Specialist,Not specified,Finland,,"OWASP ASVS, NIST Cybersecurity Framework",Cybersecurity,,Glassdoor
+Security Cleared IT Role,Not specified,Finland,,"Finnish security clearance (Supo), classified environment",Cybersecurity,,Glassdoor
+"Software Engineer (Security-focused, DevSecOps)",WithSecure,Finland,,"DevOps pipelines, threat modelling, vulnerabilities, NodeJS, AWS",Cybersecurity,,Glassdoor
+DevOps Engineer (Containerized Environments),Not specified,Finland,,"Kubernetes, Docker, distributed systems, IoT environments",DevOps/Cloud,,englishjobs.fi
+DevOps / Platform Engineer,Not specified,Finland,,"Kubernetes, Docker, OpenStack, Git, CI/CD",DevOps/Cloud,,englishjobs.fi
+Software Infrastructure Engineer / DevOps,Not specified,Finland,,"Infrastructure as Code (IaC), DevOps methodologies",DevOps/Cloud,,englishjobs.fi
+DevOps Engineer (CI/CD focus),Not specified,Helsinki,,"CI/CD tools, monitoring, build pipelines",DevOps/Cloud,,englishjobs.fi
+DevOps Engineer,EWQ Zone,Helsinki,,"Hands-on DevOps, cloud infrastructure",DevOps/Cloud,,englishjobs.fi
+DevOps Engineer (Salesforce platform),Copado,Finland,,"Azure DevOps, GitHub Actions, Jenkins, Salesforce DevOps",DevOps/Cloud,,englishjobs.fi
+Cloud/DevOps Solutions Engineer,Not specified,Finland,,"Azure cloud services, Azure DevOps pipelines, GitHub Actions",DevOps/Cloud,,englishjobs.fi
+AI/DevOps Visionary Engineer,Not specified,Finland,,"AI, DevOps, Cloud trend forecasting",DevOps/Cloud,,englishjobs.fi
+Cybersecurity Analyst,Not specified,Finland,,"Security systems analysis, network vulnerability identification",Cybersecurity,,faruse.com
+Information Security Manager,Not specified,Finland,,Information security policy development and management,Cybersecurity,,faruse.com
+Network Security Engineer,Not specified,Finland,,"Firewalls, intrusion detection systems, network security design",Cybersecurity,,faruse.com
+Penetration Tester,Not specified,Finland,,"Simulated attacks, vulnerability identification",Cybersecurity,,faruse.com
+Lead Data Analyst - Payments Data,Nordea,"Helsinki, Copenhagen, Gdansk, Gdynia",,"Payments data, hands-on data analysis",Data Analytics,,englishjobs.fi
+Business Analyst / Product Owner,Not specified,Finland,,"Telecom, Electrical Package Manager, Data Centres",Data Analytics,,englishjobs.fi
+Product Catalog & Research Analyst,Uvation,Finland,,"PIM systems, B2B/MSP product listings, Excel, data mapping",Data Analytics,,englishjobs.fi
+M&A Analyst,3stepIT,Helsinki,,"Mergers & acquisitions analysis, strategy",Data Analytics,,englishjobs.fi
+Senior Data Analyst,Starship Technologies,Finland,,"Data team, business impact analysis",Data Analytics,,englishjobs.fi
+Senior Data Analyst,Angry Birds Match team (Rovio),Finland,,"Game analytics, data-driven decisions",Data Analytics,,englishjobs.fi
+"Data & BI Analyst, Projects & Initiatives",Not specified,Finland,,"Business intelligence, project initiatives",Data Analytics,,englishjobs.fi
+Junior Data Analyst,Not specified,Helsinki,,"Analytical foundation, commercial data view",Data Analytics,,englishjobs.fi
+Supply Chain Analyst,St1,Finland,,HVO value chain modelling and optimization,Data Analytics,,englishjobs.fi
+Energy Market Analyst,Not specified,Helsinki,,Energy market analysis,Data Analytics,,englishjobs.fi
+Quantitative Risk Analyst (Assistant/Regular/Senior),Not specified,Helsinki,,Quantitative risk modelling,Data Analytics,,englishjobs.fi
+Senior Analyst - Nordic Transactions,Not specified,Helsinki,,Transaction-related engagements across industries,Data Analytics,,englishjobs.fi
+Cost Analyst,Not specified,Finland,,"Cost controlling, IFS ERP, profitability analysis",Data Analytics,,englishjobs.fi
+Business Analyst for FX Business Technology,Not specified,Helsinki,,"Foreign Exchange, Electronic Trading",Data Analytics,,englishjobs.fi
+MES Business Analyst / Functional Consultant,Not specified,Finland,,"Manufacturing Execution Systems, IT bridging",Data Analytics,,englishjobs.fi
+Investment Analyst,Not specified,Finland,,Real estate and infrastructure investment,Data Analytics,,englishjobs.fi
+Lead Product Analytics,Not specified,Finland,,"SQL, Python, analytics engineering",Data Analytics,,englishjobs.fi
+Data Analyst - Economic Calendar,Remote,Finland,,"Economic indicators, English fluency",Data Analytics,,englishjobs.fi
+Data Analyst - Data Models & Visualization,Kokku (OV Entertainment Group),Finland,,"Data models, BI dashboards",Data Analytics,,englishjobs.fi
+Senior Product Data Analyst,TapNation,Finland,,Mobile games performance metrics,Data Analytics,,englishjobs.fi
+Data Analyst I,Parker (fintech),Finland,,"Credit and fraud data, Risk/Credit/Growth analytics",Data Analytics,,englishjobs.fi
+Data Analyst - User Acquisition,Turtles platform,Finland,,User acquisition and engagement analysis,Data Analytics,,englishjobs.fi
+Finance Systems Data Analyst,Remote,Finland,,"SAP, Snowflake, finance/IT bridging",Data Analytics,,englishjobs.fi
+C#/TypeScript Developer (Azure/AWS),Not specified,Finland,,"C#, TypeScript, Microsoft Azure, Amazon AWS",Backend Development,,Glassdoor
+.NET Developer (2-5 years),Not specified,Finland,,".NET technologies, team collaboration, key decision contribution",Backend Development,,Glassdoor
+Junior AI Developer (Data Science Team),Not specified,Finland,,"AI, Data Science, Online Analytics",AI/ML,,Glassdoor
+Backend Tech Lead (.NET/Python/Azure),Not specified,Finland,,".NET, Python, AWS, Azure, scalable backend systems and APIs",Backend Development,,Glassdoor
+Microsoft/Azure Software Developer (Public Sector),Not specified,Finland,,"Microsoft/Azure development, public sector client",Backend Development,,Glassdoor
+Test Automation Developer (3+ years),Not specified,Finland,,"Test automation, 3+ years experience, private/public sector clients",QA/Testing,,Glassdoor
+Full-Stack Developer (Remote/Hybrid),Not specified,Finland,,"Full-stack development, remote/hybrid flexibility",Full Stack Development,,Glassdoor
+Security-focused .NET Developer (Defensive Security),Not specified,Finland,,".NET, Python, AWS, Azure, defensive security focus",Cybersecurity,,Glassdoor
+Power Platform Developer (Low Code),Gofore,Finland,,"Power Platform, low-code development, Finnish public services",Software Development,,Glassdoor
+D365/Power Platform Architect,Not specified,Finland,,"Microsoft D365, Power Platform, technical architecture, integrations",DevOps/Cloud,,Glassdoor
+Lead Expert (Sales + Technical),Not specified,Finland,,"Senior specialist role, sales activities, team leadership",Project Management,,Glassdoor
+Software Architect/Lead Developer (IaC),Not specified,Finland,,"Infrastructure as Code (IaC) automation, hands-on programming",DevOps/Cloud,,Glassdoor
+Healthcare Software Developer,Tietoevry Care,Finland,,"Patient/end-user product offerings, healthcare software",Software Development,,Glassdoor
+Firmware/Signal Processing Engineer,Not specified,Finland,,"Azure, Signal processing, Schematics, FPGA, Firmware",Embedded/IoT,,Glassdoor
+Computer Vision Research Engineer,Not specified,Finland,,"TensorFlow, Statistics, Computer vision, R, Electrical engineering",AI/ML,,Glassdoor
+DevOps Engineer (.NET/Cloud),Not specified,Finland,,"Azure, Ansible, Google Cloud Platform, Performance management, .NET",DevOps/Cloud,,Glassdoor
+"Backend Developer (Go, Auth)",Not specified,Finland,,"Authentication, Azure, Go, Git, Google Cloud Platform",Backend Development,,Glassdoor
+Electrical/Software Engineer (Access/VB/C#),Zuken,Finland,,"Microsoft Access, Visual Basic, Computer vision, C#",Software Development,,Glassdoor
+Requirements Analyst (Planning/Docs),Not specified,Finland,,"Jira, Web design, Ansible, System design, Process improvement",Data Analytics,,Glassdoor
+Frontend Design Engineer (Mockups),Not specified,Finland,,"Jira, Web design, Node.js, Process improvement, Test-driven development",Frontend Development,,Glassdoor
+Solutions Architect (CI/CD/Salesforce),Not specified,Finland,,"CI/CD, Data modeling, DocuSign, Salesforce, Content management systems",DevOps/Cloud,,Glassdoor
+ECM Software Engineer (C#/.NET Core),Not specified,Finland,,"C#, .NET Core, ASP.NET Core, REST API, Microsoft Azure, MS SQL, TDD",Backend Development,,englishjobs.fi
+Platform Engineering Consultant (10+ years),Polar Squad,Finland,,"AWS, Azure, GCP, infrastructure, 10+ years platform/cloud experience",DevOps/Cloud,,englishjobs.fi
+DevOps/Platform Software Engineer,OP Pohjola,Finland,,"DevOps, automation, security, platform engineering, Microsoft Azure",DevOps/Cloud,,englishjobs.fi
+Full-Stack/Mobile Developer (Multi-stack),Not specified,Finland,,"JavaScript/React, full-stack and mobile capabilities",Full Stack Development,,englishjobs.fi
+Embedded Systems Software Engineer,Not specified,Finland,,"Linux, Qt, Python, Robot Framework, embedded systems, IoT, DDS, wireless protocols",Embedded/IoT,,Glassdoor
+Camera/Embedded Systems Engineer,Not specified,Finland,,"Camera technology, embedded industry, latest technologies",Embedded/IoT,,Glassdoor
+Embedded Systems Debugging Engineer,Not specified,Finland,,"Microcontroller flashing, serial communication, oscilloscopes, voltage/current measurement",Embedded/IoT,,Glassdoor
+Embedded Finance Architecture Lead,Not specified,Finland,,"Omni-channel platforms, mobile banking, digital onboarding, embedded finance",Embedded/IoT,,Glassdoor
+Embedded/Gateway Software Developer,Remion,Finland,,"IoT, embedded/gateway systems development",Embedded/IoT,,Glassdoor
+Analytics Engineer (Embedded Tech company),Silicon Labs,Finland,,"Sales, Product Lines, Customer Support analytics across domains",Data Analytics,,Glassdoor
+Safety-Critical Software Engineer,Not specified,Finland,,"Autonomous systems, IoT, GNSS, algorithm development, scientific computing, robotics",Embedded/IoT,,Glassdoor
+Robotics Automation Engineer,Metso (Turku Factory),Turku,,"Industrial automation, robotics, electrification",Embedded/IoT,,Glassdoor
+Robotics Software Engineer (ROS/ROS2),Not specified,Finland,,"ROS, ROS2, robotics familiarity",Embedded/IoT,,Glassdoor
+Control Systems Engineer,Not specified,Finland,,"Matlab/Simulink, automated code generation, control systems/robotics",Embedded/IoT,,Glassdoor
+Nonlinear Systems Researcher,Aalto University,Finland,,"Nonlinear systems, control theory, automation research",Embedded/IoT,,Glassdoor
+Automation Software Engineer (C++/C#/.NET/WPF),Not specified,Finland,,"C++, C#, .NET, WPF, desktop application development",Embedded/IoT,,Glassdoor
+AI Performance Engineer (GPU),AMD,Finland,,"ML model optimization, profiling, GPU mapping, data center/AI/gaming/embedded",AI/ML,,Glassdoor
+Engineering Manager - Wallets (Remote),Not specified,Finland (Remote),,"Blockchain, crypto wallets, engineering management",Blockchain,,web3.career
+AI Research Engineer - Pre-training (Remote),Not specified,Finland (Remote),,"AI research, model pre-training",AI/ML,,web3.career
+AI Research Engineer - Reinforcement Learning (Remote),Not specified,Finland (Remote),,Reinforcement learning research,AI/ML,,web3.career
+DevOps Engineer (Containerized/IoT),EWQ Zone,Helsinki,,"Containerized environments, distributed systems, IoT-related environments",DevOps/Cloud,,englishjobs.fi
+DevOps Engineer (Kubernetes/Terraform/Azure),Not specified,Finland,,"Kubernetes, Terraform, Azure, application development and operations",DevOps/Cloud,,englishjobs.fi
+Platform/Cloud Infrastructure Engineer,Not specified,Finland,,"DevOps, Platform Engineering, Cloud Infrastructure, 2+ years",DevOps/Cloud,,englishjobs.fi
+Project Researcher - Machine Vision,University of Oulu (CMVS),Oulu,,"Machine vision, signal analysis, Master's/doctoral degree",AI/ML,,englishjobs.fi
+Research Fellow - Computer Science,University of Oulu,Oulu,,"Computer science, software engineering research",Software Development,,englishjobs.fi
+Senior Backend Developer (Java),Safegrid - A G&W Electric Company,Turku,July 12,"Java, backend architecture, 10+ years experience",Backend Development,,englishjobs.fi
+Backend Developer,iconicchain Oy,Helsinki,August 10,"Python, backend development, securitization",Backend Development,,englishjobs.fi
+Senior Software Engineer,Tenth Revolution Group,Helsinki,August 28,"Node.js, TypeScript, technical leadership",Backend Development,,englishjobs.fi
+Senior Back End Developer (Node.js),HiQ Oy,Espoo,August 24,"Node.js, backend, finance sector",Backend Development,,englishjobs.fi
+Full Stack Developer,Reaktor Innovations Oy,Helsinki,August 21,"Swift, Java, Scala, Kotlin, TypeScript, JavaScript, React Native",Full Stack Development,,englishjobs.fi
+Engineering Manager,Wolt Oy,Helsinki,September 1,"backend, infrastructure, distributed systems, platform engineering",Engineering Management,,englishjobs.fi
+Java Developer (banking sector),Academic Work Finland Oy,Espoo,September 3,"Java, backend services, payment systems",Backend Development,,englishjobs.fi
+Senior Fullstack Developer,Reaktor,Helsinki,July 12,"DevOps, SDKs, integrations, frontend, backend, infrastructure",Full Stack Development,,englishjobs.fi
+Senior Backend Developer,SEB,Pargas,September 7,"C#, .NET, high-availability systems",Backend Development,,englishjobs.fi
+"Software Developer, Sokos.Fi",S-ryhmä,Helsinki,July 24,"full-stack, DevOps, backend, frontend",Full Stack Development,,englishjobs.fi
+Software Developer (Cloud Gateway & Edge Systems),Casambi Technologies,Espoo,August 25,"Linux, cloud services, backend systems, edge devices",Backend Development,,englishjobs.fi
+Senior Backend Engineer,Verda,Helsinki,September 1,"Python, Go, infrastructure automation, cloud platform",Backend Development,,englishjobs.fi
+Backend Engineer - API,Coragrid,Helsinki,August 29,"Rust, C++, Linux, data infrastructure",Backend Development,,englishjobs.fi
+Software Developer,Kilatia Technologies Oy,Turku,August 27,"TypeScript, React, Bun, Hono, PostgreSQL, Prisma ORM, Tailwind",Full Stack Development,,englishjobs.fi
+Senior Backend Software Engineer (Tactical Access),ICEYE,Espoo,August 8,"Go, API development, backend systems",Backend Development,,englishjobs.fi
+Senior Software Engineer,Meta,Helsinki,June 15,"backend, full-stack, AI-enabled tools",Backend Development,,englishjobs.fi
+Senior LLVM Compiler Backend Engineer,Flow-computing Oy,Oulu,July 1,"LLVM IR, SelectionDAG, compiler backend, CPU architecture",Backend Development,,englishjobs.fi
+Senior / Expert Full Stack Cloud SW Developer,KONE,Hyvinkää,August 28,"Kotlin, React, Angular, Next.js, TypeScript, JavaScript, Node.js",Full Stack Development,,englishjobs.fi
+Full Stack Developer,Swediumglobal,Helsinki,July 24,"ReactJS, TypeScript, NodeJS, Python, FastAPI",Full Stack Development,,englishjobs.fi
+Backend Developer - Finance project,HiQ Oy,Espoo,August 24,"Node.js, finance domain",Backend Development,,englishjobs.fi
+Software Engineer - Frontend oriented,Unnamed company,Finland,July/Aug 2026,"React, frontend interfaces",Frontend Development,,englishjobs.fi
+Frontend oriented Developer,RND Works,Vantaa,August 28,"React and additions, frontend interfaces",Frontend Development,,englishjobs.fi
+Senior Fullstack Developer (Frontend focus),S-ryhmä,Helsinki,July 24,"TypeScript, React, Next.js, OpenNext, Contentful, Node.js, AWS",Frontend Development,,englishjobs.fi
+Senior Full Stack Developer for CubiCasa Tour,CubiCasa,Helsinki,August 28,"Go backend, reactive frontend frameworks",Full Stack Development,,englishjobs.fi
+Lead Frontend Excellence Engineer,Femtech Insider Ltd.,Helsinki,July 20,"TypeScript, React, Vue, Vite, state management, micro-frontend",Frontend Development,,englishjobs.fi
+Senior Cloud/Full Stack Developer,KONE,Espoo,August 24,"frontend, backend, cloud, GitLab CI/CD",Full Stack Development,,englishjobs.fi
+Senior Backend Developer (Java) - frontend collab,Safegrid,Turku,July 12,"Vue.js, React, MQTT-based messaging",Backend Development,,englishjobs.fi
+Full Stack Developer (Node.js/React),Fortum Oyj,Espoo,August 20,"Node.js, TypeScript, React",Full Stack Development,,englishjobs.fi
+Senior Frontend Engineer - Portal (BFF),Cobre,Jyväskylä,July 23,"backend-for-frontend BFF, feature flagging, A/B testing",Frontend Development,,englishjobs.fi
+Full Stack Developer - IR Software,Inderes,Helsinki,August 23,"React, TypeScript, Next.js, Tailwind CSS, Node.js, Firestore",Full Stack Development,,englishjobs.fi
+Senior Frontend Software Engineer,ICEYE,Espoo,August 14,"React, TypeScript, CSS, API ecosystem",Frontend Development,,englishjobs.fi
+Frontend Code Evaluation Specialist,Obsidian,Helsinki,August 24,"AI-generated frontend evaluation, web interfaces",Frontend Development,,englishjobs.fi
+"Software Engineer, iOS Core Product",Unnamed company,Tampere,2026,iOS development,Mobile Development,,englishjobs.fi
+Senior IT Developer (Commercial Insights),Nordea,Helsinki,,"Digital solutions, customer insight tools, agile team",Backend Development,,nordeabank careers
+Senior Calypso Developer,Nordea,Helsinki,,"Calypso platform, trading business, Settlement systems",Backend Development,,jobsinforex.com
+Senior IT Analyst (Credit Risk),Nordea,Finland,,"Python, SQL, data pipelines, credit risk models, ECL modelling, testing, code reviews, version control",Data Analytics,,fintechcareers.com
+Credit Risk Software Developer,Nordea,Finland,,"Data engineering, functional design, database objects, high-performance SQL",Backend Development,,fintechcareers.com
+Finance Manager (Analytical),One Click LCA,Finland,,"Financial forecasting, operational finance management",Project Management,,englishjobs.fi
+Women's Finance Insight Programme Participant,Nordea,Finland,,"Banking and finance introduction, Markets, Investment Banking",Project Management,,englishjobs.fi
+Game Tech Programmer,Supercell,Helsinki,,"Game technology programming, mo.co and Brawl Stars teams",Game Development,,supercell.com
+Game Programmer (Clash Royale),Supercell,Helsinki,,"Generalist programming, game feature implementation",Game Development,,pocketgamer.biz
+Game Developer,Scorewarrior,Helsinki,,Mobile game development,Game Development,,devjobsscanner.com
+Lead Game Developer,Metacore,Helsinki,,"Merge Mansion, mobile games, lead role",Game Development,,devjobsscanner.com
+Game Architect/Lead,ARVO (Augmented Reality Vision Ocular),Helsinki,,"Augmented reality, game architecture",Game Development,,devjobsscanner.com
+Games Recruitment Specialist Role,Amiqus,Helsinki,,Games industry recruitment,Game Development,,devjobsscanner.com
+Game Developer,Clarvo,Helsinki,,Game development role,Game Development,,devjobsscanner.com
+Game Developer,Rovio Entertainment,Espoo,,"Mobile games, Angry Birds franchise",Game Development,,gameindustrycareerguide.com
+Game Developer,Bugbear Entertainment,Helsinki,,Racing games development,Game Development,,gameindustrycareerguide.com
+Game Developer,Frozenbyte,Helsinki,,Action-adventure game development,Game Development,,gameindustrycareerguide.com
+Game Developer,Housemarque,Helsinki,,PlayStation exclusive game development,Game Development,,gameindustrycareerguide.com
+Game Developer,RedLynx,Helsinki,,Racing/physics-based game development,Game Development,,gameindustrycareerguide.com
+Game Developer,Colossal Order,Tampere,,City-building simulation games (Cities: Skylines),Game Development,,gameindustrycareerguide.com
+IT Developer (Group Technology),Nordea,Helsinki,,"Holistic technological view, banking transformation",Backend Development,,nordeabank careers
+Senior Backend Developer (Nordea Group Tech),Nordea,Helsinki,,"Backend engineering, banking systems",Backend Development,,nordeabank careers
+Data Engineer (Credit Risk),Nordea,Helsinki,,"Data pipelines, credit risk domain, Python, SQL",Data Engineering,,fintechcareers.com
+IT Analyst (Banking),Nordea,Helsinki,,"Business requirements analysis, banking domain",Data Analytics,,fintechcareers.com
+Software Engineer (Trading Systems),Nordea,Helsinki,,"Trading business, Settlement, financial systems",Backend Development,,jobsinforex.com
+Digital Solutions Developer,Nordea,Helsinki,,"Digital banking solutions, customer-facing tools",Backend Development,,nordeabank careers
+Senior Software Engineer (Fintech),Not specified,Finland,,"Fintech domain expertise, software engineering",Backend Development,,englishjobs.fi
+IT Consultant (Financial Services),Not specified,Finland,,Financial services IT consulting,IT Support/Systems,,englishjobs.fi
+Data Scientist (Banking Analytics),Not specified,Finland,,"Banking data science, risk analytics",Data Science,,englishjobs.fi
+Quantitative Developer (Trading),Not specified,Finland,,"Quantitative development, trading systems",Backend Development,,englishjobs.fi
+Compliance Systems Developer,Not specified,Finland,,Regulatory compliance systems development,Backend Development,,englishjobs.fi
+Risk Modelling Engineer,Not specified,Finland,,"Risk modelling, financial engineering",Data Science,,englishjobs.fi
+Payments Systems Developer,Not specified,Finland,,Payment processing systems development,Backend Development,,englishjobs.fi
+Anti-Money Laundering (AML) Systems Analyst,Not specified,Finland,,"AML systems, regulatory technology",Cybersecurity,,englishjobs.fi
+Core Banking Systems Engineer,Not specified,Finland,,Core banking platform engineering,Backend Development,,englishjobs.fi
+Insurance Technology Developer,Not specified,Finland,,Insurance domain software development,Backend Development,,englishjobs.fi
+Investment Platform Developer,Not specified,Finland,,"Investment platform, financial technology",Backend Development,,englishjobs.fi
+Mobile Banking App Developer,Not specified,Finland,,Mobile banking application development,Mobile Development,,englishjobs.fi
+RegTech Solutions Engineer,Not specified,Finland,,Regulatory technology solutions,Backend Development,,englishjobs.fi
+Financial Data Pipeline Engineer,Not specified,Finland,,"Financial data pipelines, ETL processes",Data Engineering,,englishjobs.fi
+Wealth Management Systems Developer,Not specified,Finland,,Wealth management platform development,Backend Development,,englishjobs.fi
+Game QA Tester,Not specified,Helsinki,,Game quality assurance testing,QA/Testing,,gameindustrycareerguide.com
+Game Producer (Technical),Not specified,Helsinki,,"Technical game production, team coordination",Project Management,,gameindustrycareerguide.com
+Mobile Game Backend Engineer,Not specified,Helsinki,,"Backend systems for mobile games, scalability",Backend Development,,gameindustrycareerguide.com
+Game Data Analyst,Not specified,Helsinki,,"Game analytics, player behavior data",Data Analytics,,gameindustrycareerguide.com
+Game Live Ops Engineer,Not specified,Helsinki,,"Live operations, game service management",DevOps/Cloud,,gameindustrycareerguide.com
+Game Economy Designer/Analyst,Not specified,Helsinki,,"In-game economy design, data-driven balancing",Data Analytics,,gameindustrycareerguide.com
+Multiplayer Systems Engineer (Games),Not specified,Helsinki,,"Multiplayer networking, game server systems",Backend Development,,gameindustrycareerguide.com
+Game Client Engineer,Not specified,Helsinki,,Game client-side engineering,Software Development,,gameindustrycareerguide.com
+Game Tools Engineer,Not specified,Helsinki,,"Internal game development tools, tooling",Software Development,,gameindustrycareerguide.com
+Mobile Games Monetization Engineer,Not specified,Helsinki,,"Monetization systems, mobile games",Backend Development,,gameindustrycareerguide.com
+Cloud-Native Fleet Systems Engineer,Not specified,Finland,,"Scalable cloud-native systems, connected fleets, remote monitoring, intelligent systems",DevOps/Cloud,Not specified,englishjobs.fi
+Remote Customer Support Manager (Payments),Narvi Payments,Finland (Remote),,"Payments engine, high-touch relationship management, remote-first",IT Support/Systems,Not specified,englishjobs.fi
+RF Solutions Engineer,Not specified,Finland,,"RF instrumentation, amplifier performance validation, remote/on-site support",Embedded/IoT,Not specified,englishjobs.fi
+Distributed Systems Support Engineer (Remote-first),Not specified,Finland,,"Distributed teams, self-motivated, remote-first workspace",IT Support/Systems,Not specified,englishjobs.fi
+Infrastructure Solutions Sales Engineer,Not specified,Finland,,"Infrastructure solution sales, Finnish/English business fluency",DevOps/Cloud,Not specified,Glassdoor
+Business Developer (Industrial Automation/Cloud),Not specified,Finland,,"Industrial automation, cloud solutions, mechanical engineering plus",Software Development,Not specified,englishjobs.fi
+Sustainability Data Support Analyst,SSAB Europe,Finland,,"Sustainability data support, English fluency",Data Analytics,Not specified,Glassdoor
+Construction Market Researcher (Data-driven),Not specified,Finland,,"Research, communication, analytical thinking, market data",Data Analytics,"""Not specified""",Glassdoor
+ICT Employment Statistic - Finland,Aggregate,Finland,,7.8% of employment are ICT specialists vs EU average 5% (2025 Digital Decade report),IT General,Not specified,digital-skills-jobs.europa.eu (aggregate)
+Female ICT Specialists Statistic - Finland,Aggregate,Finland,,"22.4% of ICT specialists in Finland are female (2024), vs EU average 19.5%",IT General,Not specified,digital-skills-jobs.europa.eu (aggregate)
+Basic Digital Skills Coverage Statistic - Finland,Aggregate,Finland,,82% basic digital skills coverage vs EU average 55.6% (2024 Digital Decade report),IT General,Not specified,digital-skills-jobs.europa.eu (aggregate)
+Payments Back-office IT Support,Not specified,Finland,,"Product orders, deliveries, back-office system handling",IT Support/Systems,Not specified,Glassdoor
+Digital Compass Strategy IT Coordinator,Ministry of Economic Affairs Finland,Finland,,"National digital transformation roadmap, inter-ministerial IT coordination",Project Management,Not specified,digital-skills-jobs.europa.eu
+AI 4.0 Programme Technical Coordinator,Not specified,Finland,,"AI 4.0 Programme, AI development and adoption in companies",AI/ML,Not specified,digital-skills-jobs.europa.eu
+Digivisio 2030 Platform Developer,Not specified,Finland,,"Digivisio 2030 Programme, education digitalization platform",Software Development,Not specified,digital-skills-jobs.europa.eu
+Senior Frontend Developer (Reaktor),Reaktor,Helsinki,,"Full software development lifecycle, front-end to production",Frontend Development,Not specified,englishjobs.fi
+Data Erasure Sustainability Software Engineer,Not specified,Finland,,"Data erasure software, sustainable organization tools",Software Development,Not specified,englishjobs.fi
+"Software Engineer (Alstom, Cutting-edge)",Alstom,Helsinki,,"Software development expertise, cutting-edge projects",Software Development,Not specified,englishjobs.fi
+Kernel/OpenStack Migration Engineering Manager,Not specified,Finland,,"Ubuntu, Kernel, Ceph, OpenStack, Kubernetes transition leadership",Software Development,Not specified,englishjobs.fi
+E-commerce Fault-tolerant Systems Engineer,RB Global Inc.,Finland,,"Scalable fault-tolerant e-commerce systems, capital assets platform",Software Development,Not specified,englishjobs.fi
+CI/CD Automation Developer Experience Lead,Not specified,Finland,,"CI systems, scalable automation infrastructure, AI-powered developer tools",DevOps/Cloud,Not specified,englishjobs.fi
+Mobile/Device Farm QA Automation Engineer,Not specified,Finland,,"Mobile automation, device farms, CI/CD, job orchestration",QA/Testing,Not specified,englishjobs.fi
+AI-powered Testing/Debugging Engineer,Not specified,Finland,,"AI-improved automation, testing, debugging, reporting tools",QA/Testing,Not specified,englishjobs.fi
+Developer Community Growth Manager,Not specified,Finland,,"C++ community growth, developer education, university partnerships",Software Development,Not specified,englishjobs.fi
+Qt Developer Community Manager,Qt,Finland,,"Qt Developer Community, million+ developers engagement",Software Development,Not specified,englishjobs.fi
+University Partnership Developer Educator,Not specified,Finland,,"Developer education programs, student ambassador programs",Software Development,Not specified,englishjobs.fi
+Bluefors Calculation Software Developer,Bluefors,Helsinki,,"Calculation logic, business logic software development",Software Development,Not specified,englishjobs.fi
+Platform Engineering Product Mindset Lead,Not specified,Finland,,"Internal developer platform, product mindset, engineer partnership",DevOps/Cloud,Not specified,englishjobs.fi
+GIS Java Backend Developer (5+ years),Not specified,Finland,,"Java, 5+ years, geospatial backend development twist",Backend Development,Not specified,Glassdoor
+Structural Geology Research Engineer,Not specified,Finland,,"Structural geology, quaternary geology, 3D modelling, geophysics",AI/ML,Not specified,Glassdoor
+AI-Driven Landscape Architecture Researcher,Aalto University,Finland,,"ADAPT project, AI-driven dynamic landscape processes",AI/ML,Not specified,Glassdoor
+Rural Land Use Resilience Researcher (LEONE),Not specified,Finland,,"Competitive land uses, resilience in rural social-ecological systems",Data Analytics,Not specified,Glassdoor
+3PL Logistics Continuous Improvement Engineer,Not specified,Finland,,"3PL logistics, continuous improvement, productivity enhancement",IT Support/Systems,Not specified,Glassdoor
+Forest Remote Sensing AI Doctoral Researcher,Not specified,Joensuu,,"3D tree/forest representations, microwave remote sensing, AI/ML",AI/ML,Not specified,englishjobs.fi
+Vegetation Modelling Remote Sensing Researcher,Not specified,Finland,,"3D vegetation modelling, field-based remote sensing methods",AI/ML,Not specified,englishjobs.fi
+Meteorological Institute Data Researcher,Finnish Meteorological Institute,Finland,,"Microwave remote sensing, international collaboration research",Data Science,Not specified,englishjobs.fi
+Chapter Lead - Remote Systems,Not specified,Finland,,"Performance optimization, remote team leadership",Software Development,Not specified,englishjobs.fi
+Hybrid Remote Software Developer,Not specified,Finland,,"Hybrid remote work possibility, flexible software development",Software Development,Not specified,englishjobs.fi
+Turku Bioscience IT Research Support,Turku Bioscience Centre,Turku,,"Faculty of Science and Engineering IT support, fixed-term",IT Support/Systems,Not specified,englishjobs.fi
+Nordics Business Developer (Tech Sales),Not specified,Finland,,"Industrial automation, cloud solutions, machine builder relationships",Software Development,Not specified,englishjobs.fi
+Helsinki Consulting Firm Developer (150-person),Not specified,Helsinki,,"Consulting-focused development, Helsinki-based team",Software Development,Not specified,englishjobs.fi
+Sales Process Automation Developer,Not specified,Finland,,"Sales process automation, deal tracking systems",Backend Development,Not specified,Glassdoor
+Customer Interaction Data Developer,Not specified,Finland,,"Customer interaction analytics, call/chat data processing",Data Analytics,Not specified,Glassdoor
+AI Resume Matching Tool Developer,Not specified,Finland,,AI-based resume-job matching technology development,AI/ML,Not specified,Glassdoor
+Metal Industry IT Systems Support,Finesta,Finland,,"Industrial IT systems, metal industry operations support",IT Support/Systems,Not specified,englishjobs.fi
+Trainee Program Software Developer (6-month),Miltton,Helsinki,,"Consultancy software development, fast-growing Nordic firm",Software Development,Not specified,englishjobs.fi
+Winter Season IT Support (Seasonal),Not specified,Lapland,,"Seasonal IT support, tourism sector technology",IT Support/Systems,Not specified,englishjobs.fi
+Digital Transformation Consultant (Nordics),Mercer,Finland,,"Strategic digital transformation, Nordics career practice leadership",Project Management,Not specified,englishjobs.fi
+Machine Builder Relations Tech Developer,Not specified,Finland,,"Machine builder partnerships, industrial tech business development",Software Development,Not specified,englishjobs.fi
+Electrocatalytic Research Data Postdoc,Not specified,Finland,,"Electrocatalytic upcycling research, data analysis postdoc position",Data Science,Not specified,englishjobs.fi
+Career Practice Strategic Leader (Tech),Mercer,Finland,,"Strategic leadership, career practice development, Nordics team",Project Management,Not specified,englishjobs.fi
+Security Risk Management Specialist (Gofore),Gofore,Finland,,"Security risk management, security control models implementation",Cybersecurity,Not specified,Glassdoor
+Government Security Clearance IT Specialist,Not specified,Vantaa,,"Microsoft/customer/government security screening, on-site with hybrid support",Cybersecurity,Not specified,Glassdoor
+Compliance Standards Security Officer (PCI/ISO/GDPR/NIS2/DORA),Not specified,Finland,,"PCI, ISO-9001, 22301, 27001, 27701, GDPR, NIS2, DORA standards",Cybersecurity,Not specified,Glassdoor
+Data Governance Compliance Engineer,Insight Software,Finland,,"Data governance, GDPR, regulatory compliance, data security encryption",Cybersecurity,Not specified,Glassdoor
+Digital Wallet Compliance Reporting Analyst,Not specified,Finland,,"Dispute metrics, digital wallet performance, SLA compliance reporting",Data Analytics,Not specified,Glassdoor
+AML Compliance Treasury Specialist,Not specified,Finland,,"AML policy maintenance, Treasury compliance guidelines",Cybersecurity,Not specified,Glassdoor
+Tax and Compliance Process Developer,Not specified,"Espoo, Jyväskylä",,Tax and compliance process development and maintenance,Backend Development,Not specified,Glassdoor
+Financial Reporting Integrity Systems Engineer,Not specified,Finland,,"Financial and management reporting integrity, accuracy, compliance ownership",Data Engineering,Not specified,Glassdoor
+HRIS Specialist (Hire-to-Retire),Finago,Finland,,"HR technology, Hire-to-retire process optimization, Nordics financial/HR software",Backend Development,Not specified,englishjobs.fi
+HR Application Owner (SAP SuccessFactors),Metso IT,Finland,,"SAP SuccessFactors, HR IT applications, multi-functional team collaboration",IT Support/Systems,Not specified,englishjobs.fi
+HR Operations Manager (Systems/Automation),Not specified,Espoo,,"HR systems, reporting, process automation expertise",Project Management,Not specified,englishjobs.fi
+HR Technology GDPR Compliance Lead,Not specified,Finland,,"Security, data privacy (GDPR), internal controls, audit requirements",Cybersecurity,Not specified,englishjobs.fi
+Valtori AI/LLM Government Services Engineer,Valtori (Finnish Government ICT Center),Finland,,"Secure AI and large language model services, protected cloud-based AI platforms",AI/ML,Not specified,englishjobs.fi
+AI Diagnostics Language Model Developer,Not specified,Helsinki,,"AI language model tools for diagnostics, flexible remote work",AI/ML,Not specified,englishjobs.fi
+HUMAIN Project AI Competence Specialist,Not specified,Finland,,"Large language models, computer science/data science background, 12-18 years experience",AI/ML,Not specified,englishjobs.fi
+"Senior Software Engineer (IAM, Enigma)",Enigma,Helsinki,,"Identity and Access Management, feature architecture and design, system documentation",Cybersecurity,Not specified,englishjobs.fi
+Senior Automation Engineer (Central Automation),Not specified,Helsinki,,"Central Automation team, next-generation automation systems",Embedded/IoT,Not specified,englishjobs.fi
+Language Skills Qualification Advisor (SIMHE),Not specified,Finland,,"Finnish language courses guidance, employment services coordination",IT Support/Systems,Not specified,infofinland.fi
+Compliance Wellbeing Benefits Systems Developer,Not specified,"Espoo, Jyväskylä",,"Employee wellbeing systems, digital benefits platform (ePassi-style)",Backend Development,Not specified,Glassdoor
+Energy IT Product Collaboration Engineer,Valmet Inc.,Finland,,"IT, electrical engineering, energy, product development collaboration",Software Development,Not specified,Glassdoor
+Commercial Analytics Solutions Developer (Energy),Not specified,Finland,,"Business Analytics, commercial analytics solutions, business performance",Data Analytics,Not specified,Glassdoor
+Energy Asset Management Techno-Economic Analyst,Not specified,Lappeenranta,,"Energy production, storage, grids, Power-to-X, techno-economic analyses",Data Analytics,Not specified,Glassdoor
+Data Center Electrical Presales Engineer,Eaton,Finland,,"Data Center Electrical Engineering, presales, technology content architecting",IT Support/Systems,Not specified,Glassdoor
+Cloud-Native VM/Container/Kubernetes Engineer,Not specified,Finland,,"Intelligent automation, cloud-native, virtual machines, containers, Kubernetes",DevOps/Cloud,Not specified,Glassdoor
+EU Grid Development Process Engineer,Not specified,Finland,,"Process engineering design, project management, European grid capital projects",Software Development,Not specified,Glassdoor
+AI Solutions Production Deployment Engineer,Not specified,Finland,,"AI solutions deployment, data engineers/software developers collaboration",AI/ML,Not specified,Glassdoor
+Smart Building Technology Account Manager,Not specified,Finland,,"Energy efficiency, smart building technology, sustainability focus",Software Development,Not specified,Glassdoor
+Knowledge Base Documentation Support Engineer,Not specified,Finland,,"Technical documentation, knowledge base building, technician support",IT Support/Systems,Not specified,Glassdoor
+BESS/EV Charging Electrical Systems Engineer,Not specified,Finland,,"BESS, EV charging, electrical engineering systems support",Embedded/IoT,Not specified,englishjobs.fi
+PCB Electrical Systems Design Engineer,Skeleton,Finland,,"PCB-based electrical systems, power electronics, industrial energy",Embedded/IoT,Not specified,englishjobs.fi
+R&D Systems Engineer (Coherent Corp),Coherent Corp,Finland,,"Electrical/systems engineering, R&D projects, performance/quality/reliability",Embedded/IoT,Not specified,englishjobs.fi
+Automation Engineer (Equipment & Maintenance),Not specified,Kotka,,"Equipment automation, maintenance department, hands-on engineering",Embedded/IoT,Not specified,englishjobs.fi
+Commissioning/Field Service Engineer (Energy Efficiency),SpinDrive,Finland,,"Industrial energy efficiency, commissioning, field service engineering",Embedded/IoT,Not specified,englishjobs.fi
+Senior Operations Engineer (Satellite),ReOrbit,Finland,,"Satellite operations, operational readiness, mission driving",Embedded/IoT,Not specified,englishjobs.fi
+Head of System Engineering (Satellite Tech),Not specified,Helsinki,,"Satellite technology, system engineering team leadership",Project Management,Not specified,jobsinhelsinki.com
+NATO Young Professionals - Data Engineering/AI,NATO,Finland,,"Data Engineering, Artificial Intelligence, future leadership training programme",Data Engineering,Not specified,jobsinhelsinki.com
+Senior Engineering Manager (Ad Integrations),Smartly,Helsinki,,"Creative Engineering, advertising platform integrations, team leadership",Backend Development,Not specified,jobsinhelsinki.com
+Engineering Manager (Navigation SDK),Mapbox,Helsinki,,"Nav SDK team leadership, navigation technology, engineer mentoring",Backend Development,Not specified,jobsinhelsinki.com
+Semiconductor Deposition Process Engineer (R&D),ASM,Finland,,"Semiconductor deposition processes, R&D process engineering",Embedded/IoT,Not specified,jobsinhelsinki.com
+Mining/Minerals Feasibility Study Analyst,Not specified,Finland,,"Investment phase conceptual/feasibility studies, mining and minerals processing",Data Analytics,Not specified,Glassdoor
+Senior Gameplay Animator,Not specified,Finland,,"In-game character/weapon animation, motion capture, keyframing",Game Development,,englishjobs.fi
+Lead Game Developer (Angry Birds Friends),Rovio,Finland,,"Complex feature building, technical architecture, team leadership",Game Development,,englishjobs.fi
+Data Analyst (Game Design/LiveOps),Supercell,Finland,,"Game Design, LiveOps, Monetization, data-informed decisions",Data Analytics,,englishjobs.fi
+Expert Data Analyst,Nordea,"Helsinki, Copenhagen, Gdansk, Gdynia",,"Data and requirements analysis, broad business understanding",Data Analytics,,englishjobs.fi
+Product Marketing Manager (Brawl Stars),Supercell,Finland,,"Go-to-market execution, marketing-product bridging",Product Management,,englishjobs.fi
+Senior/Staff Product Manager,Femtech Insider Ltd.,Helsinki or Oulu,,"Consumer tech/AI-first products, 7+ years experience",Product Management,,englishjobs.fi
+"Manager, Product Engineering",Fiskars,Finland,,"Product Engineering team leadership, cost optimization",Product Management,,englishjobs.fi
+Product Manager / Quantitative Risk Analyst,Nordea,Finland,,"Risk-modelling platform, product roadmap, backlog prioritisation",Product Management,,englishjobs.fi
+Digital Service Tools Product Manager,Not specified,Finland,,Digital service tools product management,Product Management,,englishjobs.fi
+Product Manager (SalaX portfolio),Not specified,Finland,,"Product vision, strategy, roadmap, pricing",Product Management,,englishjobs.fi
+Commercial Product Manager,LeadDesk,Finland,,Commercial counterpart to technical product manager,Product Management,,englishjobs.fi
+Senior/Lead Product Manager (Media),Not specified,Finland,,"Media product evolution, customer insights",Product Management,,englishjobs.fi
+Business Analyst - FX Business Technology,Not specified,Helsinki,,"Foreign Exchange, Electronic Trading, Market Business Technology",Data Analytics,,englishjobs.fi
+Senior Business Analyst,ABB,Finland,,10+ years senior analyst/analytics experience,Data Analytics,,englishjobs.fi
+Analyst Trainee - Valuation and Modelling,EY-Parthenon Finland,Finland,,"Valuation, financial modelling, trainee program",Data Analytics,,englishjobs.fi
+Software Development Manager - Cloud Solutions,Hansen,Finland,,"Cloud solutions, 3+ years Engineering Manager role",Software Development,,englishjobs.fi
+Software Engineer,Alstom,Helsinki,,"Software development, Computer Science background",Software Development,,englishjobs.fi
+System-level Software Engineer,Not specified,Finland,,System-level software development,Software Development,,englishjobs.fi
+Data Erasure Software Engineer,Not specified,Finland,,"Data erasure software, sustainability tools",Software Development,,englishjobs.fi
+Software Engineer (Healthcare/Patient Monitoring),Not specified,Finland,,"Physiological measurements, clinical workflows, patient monitoring software",Software Development,,Glassdoor
+Production Incident Engineer (Monitoring/Resolution),Not specified,Finland,,"Production incident monitoring, analysis, resolution, service interruption management",IT Support/Systems,,Glassdoor
+Digital Technology Sales Engineer,Not specified,Finland,,"Personalisation, marketing automation, commerce, analytics platforms",Data Analytics,,Glassdoor
+Cloud Technology Program Manager,AFRY,Finland,,"Cloud technology, project/program management, hybrid working",Project Management,,Glassdoor
+E-commerce Software Platform Engineer,RB Global Inc.,Finland,,"E-commerce software platform, scalable fault-tolerant products, Agile",Software Development,,englishjobs.fi
+Software Engineering Manager (Open Source Transition),Not specified,Finland,,"Ubuntu, Kernel, Ceph, OpenStack, Kubernetes, Linux, open source",Software Development,,englishjobs.fi
+Digital Services Software Engineer,Oriola Finland,Finland,,"Digital services reliability, customer-facing systems",Software Development,,englishjobs.fi
+AWS Backend Developer (C#/.NET core),Not specified,Finland,,"AWS core services, C#, .NET Core, long project engagement",Backend Development,,englishjobs.fi
+Developer Relations Lead (Community),Not specified,Finland,,"5+ years developer relations, community management, developer marketing",Software Development,,englishjobs.fi
+Senior Software Developer (Bluefors),Bluefors,Helsinki,,Calculation and business logic development,Software Development,,englishjobs.fi
+Platform Engineer (Product Mindset),Not specified,Finland,,"Internal developer platform, product teams collaboration, operational friction reduction",DevOps/Cloud,,englishjobs.fi
+Automation Engineer (Streetwear/Retail Tech),Not specified,Espoo,,"Retail technology, flexible working, e-commerce operations",Software Development,,englishjobs.fi
+DevOps Engineer (Eficode),Eficode,Espoo,,"DevOps consulting, flexible work location within Finland",DevOps/Cloud,,englishjobs.fi
+Defence Technology Software Engineer,Not specified,Finland,,"Defence sector software, NATO-aligned technology development",Software Development,,y-axis.com
+Logistics Technology Engineer,Not specified,Finland,,"Logistics systems, supply chain technology, engineering",Software Development,,y-axis.com
+Maritime Technology Software Developer,Not specified,Finland,,"Maritime technology sector, innovation-driven software development",Software Development,,y-axis.com
+Cybersecurity Specialist (Defence Sector),Not specified,Finland,,"Defence sector cybersecurity, NATO-aligned security requirements",Cybersecurity,,y-axis.com
+Healthcare IT Systems Engineer,Not specified,Finland,,"Healthcare sector IT systems, patient data systems",IT Support/Systems,,y-axis.com
+Manufacturing IT Systems Developer,Not specified,Finland,,"Manufacturing sector IT, industrial systems development",Software Development,,y-axis.com
+IT Systems Engineer (Espoo),Not specified,Espoo,,"IT systems engineering, major employment hub location",IT Support/Systems,,y-axis.com
+IT Systems Engineer (Tampere),Not specified,Tampere,,"IT systems engineering, technology-driven company environment",IT Support/Systems,,y-axis.com
+IT Systems Engineer (Turku),Not specified,Turku,,"IT systems engineering, strong business presence region",IT Support/Systems,,y-axis.com
+IT Systems Engineer (Oulu),Not specified,Oulu,,"IT systems engineering, modern infrastructure region",IT Support/Systems,,y-axis.com
+Software Engineer (Fault-tolerant Products),Not specified,Finland,,"Scalable fault-tolerant product development, Agile methodology, full software lifecycle",Software Development,,englishjobs.fi
+Kubernetes/OpenStack Platform Engineer,Not specified,Finland,,"Kubernetes, OpenStack, Ceph, open source platform engineering",DevOps/Cloud,,englishjobs.fi
+Marketing Automation Platform Engineer,Not specified,Finland,,"Marketing automation platforms, commerce integration",Data Analytics,,Glassdoor
+Analytics Platform Sales Engineer,Not specified,Finland,,"Analytics platforms, technical sales, customer solutioning",Data Analytics,,Glassdoor
+Hybrid Working Cloud Consultant,AFRY,Finland,,"Cloud technology consulting, complex business/technology landscapes",DevOps/Cloud,,Glassdoor
+Digital Commerce Solutions Engineer,Not specified,Finland,,"Digital commerce technology, personalisation systems",Software Development,,Glassdoor
+IT Service Interruption Analyst,Not specified,Finland,,"Service interruption analysis, business impact minimization",IT Support/Systems,,Glassdoor
+Patient Monitoring Software Developer,Not specified,Finland,,"Clinical workflow software, patient monitoring systems, healthcare tech",Software Development,,Glassdoor
+Group Manager - Technology (AFRY),AFRY,Finland,,"Technology group management, complex landscapes navigation",Project Management,,Glassdoor
+Backend Developer (Tech Lead Pathway),Not specified,Finland (Hybrid),,"Backend development, technical challenge solving, leadership track",Backend Development,,englishjobs.fi
+Information Technology Generalist (601 open roles benchmark),Aggregate,Finland,,601 total active Information Technology job listings on Glassdoor Finland,IT General,,Glassdoor (aggregate)
+Full Software Lifecycle Engineer,Not specified,Finland,,"Full software development lifecycle, Agile methodology",Software Development,,englishjobs.fi
+Cloud Migration Engineer,Not specified,Finland,,"Cloud migration projects, infrastructure transition",DevOps/Cloud,,englishjobs.fi
+Digital Marketplace Backend Developer,Not specified,Finland,,"Digital marketplace backend, millions of users scale",Backend Development,,englishjobs.fi
+IT Product Owner (Marketplace),Not specified,Finland,,"Product ownership, digital marketplace domain",Project Management,,englishjobs.fi
+Scalable Systems Software Engineer,Not specified,Finland,,"Scalable systems architecture, fault tolerance design",Software Development,,englishjobs.fi
+E-commerce Platform Backend Engineer,Not specified,Finland,,"E-commerce backend systems, platform scalability",Backend Development,,englishjobs.fi
+Retail Technology Systems Developer,Not specified,Espoo,,"Retail technology systems, customer-facing platforms",Software Development,,englishjobs.fi
+Healthcare Data Systems Engineer,Not specified,Finland,,"Healthcare data systems, patient information management",Data Engineering,,y-axis.com
+NATO-aligned Defence IT Engineer,Not specified,Finland,,"Defence sector IT, NATO technology alignment",IT Support/Systems,,y-axis.com
+Logistics Software Systems Analyst,Not specified,Finland,,"Logistics software analysis, supply chain systems",Data Analytics,,y-axis.com
+Innovation Hub Technology Developer,Not specified,Helsinki,,"Technology innovation, major hub development environment",Software Development,,y-axis.com
+Research Sector Software Engineer,Not specified,Finland,,"Research sector software development, academic-industry collaboration",Software Development,,y-axis.com
+Education Technology Developer,Not specified,Finland,,"Education sector technology, learning platform development",Software Development,,y-axis.com
+Manufacturing Systems Integration Engineer,Not specified,Finland,,"Manufacturing systems integration, industrial IT",Software Development,,y-axis.com
+Defence Spending Growth IT Analyst,Aggregate,Finland,,"Finland defence spending trend since NATO 2% GDP target 2024, sustained demand for engineers/cybersecurity",Cybersecurity,,y-axis.com (aggregate)
+IT Systems Engineer (Vantaa),Not specified,Vantaa,,"IT systems engineering, employment hub region",IT Support/Systems,,y-axis.com
+IT Systems Engineer (Jyväskylä),Not specified,Jyväskylä,,"IT systems engineering, technology-driven company region",IT Support/Systems,,y-axis.com
+"Senior Risk Expert - Credit Risk Framework, ESG-related Credit Risk",Nordea,Not specified,9.9.2026,"Risk, ESG",IT Support/Systems,,ite wiki
+Versatile Senior/Expert IT Developer for STO Domain API,Nordea,Helsinki,2.9.2026,API Development,Software Development,,ite wiki
+Data Integration & System Engineer to Martech & Sales Technology Department,Nordea,Helsinki,2.9.2026,"Data Integration, Systems",Data Engineering,,ite wiki
+"Senior IT Developer - Engineering & Automation (Python, SQL, Cloud)",Nordea,Helsinki,2.9.2026,"Python, SQL, Cloud",Software Development,,ite wiki
+Recovery Data Expert Data Engineer,Nordea,Helsinki,8.9.2026,Data Engineering,Data Engineering,,ite wiki
+Projektipäällikkö (Project Manager),SC Software Oy,"Helsinki, Jyväskylä, Kuopio",Not specified,"Project Management, IT",Project Management,,ite wiki
+Expert / Staff Data Scientist - Generative / Agentic AI,Nordea,Not specified,Not specified,"Generative AI, Agentic AI",Data Science,,ite wiki
+Full Stack Developer - AI and API Platform Portal,Nordea,Helsinki,8.9.2026,"AI, API, Full Stack",Full Stack Development,,ite wiki
+QA Engineer / Test Automation Engineer,Nordea,Helsinki,2.9.2026,"QA, Test Automation",QA/Testing,,ite wiki
+Back-end Developer to Martech & Sales Technology Department,Nordea,Helsinki,2.9.2026,Backend Development,Backend Development,,ite wiki
+Data Intelligence AI and Automation Engineer,Nordea,Helsinki,2.9.2026,"AI, Automation, Data",Data Engineering,,ite wiki
+Senior IT Developer for Settlement,Nordea,Not specified,Not specified,IT Development,Software Development,,ite wiki
+Head of Core Technology Financial Partnering,Nordea,Helsinki,Not specified,Technology Leadership,IT Support/Systems,,ite wiki
+"Avoin hakemus (Open Application), Knowit Solutions FLX",Knowit,"Helsinki, Tampere, Turku",Not specified,"BI, Data Governance, Software Development, Analytics, Big Data, Integrations, IoT, RPA, AI/ML, Testing, Cloud/SaaS",Software Development,,ite wiki
+Senior Mobile Developer (iOS & Android) for Loans services,Nordea,Helsinki,3.9.2026,"iOS, Android, Mobile",Mobile Development,,ite wiki
+"Team Lead, Expert NBA (Next-Best-Action) Data Scientist",Nordea,Helsinki,2.9.2026,"Data Science, Leadership",Data Science,,ite wiki
+Senior IT Operations Engineer - Snowflake-based Data Warehouse & DevOps,Nordea,Helsinki,2.9.2026,"Snowflake, Data Warehouse, DevOps",DevOps/Cloud,,ite wiki
+Recovery Data Senior Data Engineer,Nordea,Helsinki,8.9.2026,Data Engineering,Data Engineering,,ite wiki
+Lead Data Engineer,Monad Oy,Tampere,Not specified,"Data Quality, Data Traceability",Data Engineering,,ite wiki
+Senior Data Engineer - Feature Engineering for AI Models,Nordea,Not specified,Not specified,"Feature Engineering, AI",Data Engineering,,ite wiki
+"Uramahdollisuudet (Career Opportunities), Norrin",Norrin,Not specified,Not specified,"Business Intelligence, AI",Data Analytics,,ite wiki
+Backend Developer (Rust/C++),Not specified,Finland,,"Rust, C++, typed reliable backend code, distributed systems",Backend Development,,englishjobs.fi
+Backend Engineer (Rust Systems),Coragrid,Helsinki,,"Rust, Linux, compiled languages, terminal-native tools, data infrastructure",Backend Development,,englishjobs.fi
+Platform Engineering Team Lead,Not specified,Finland,,"5+ years backend, distributed systems, runtime platforms, developer-facing APIs",Backend Development,,englishjobs.fi
+Full Stack Developer (Reaktor),Reaktor,Helsinki,,"Frontend, backend, databases collaboration, architecture contribution",Full Stack Development,,englishjobs.fi
+Platform Engineer (AI Release Confidence),Not specified,Finland,,"Platform engineering, CI/CD systems, developer infrastructure, AI-powered platforms",DevOps/Cloud,,englishjobs.fi
+Backend/Systems Engineer (Rust Focus),Not specified,Finland,,"Rust, Linux, compiled language familiarity, backend infrastructure",Backend Development,,englishjobs.fi
+Senior Full Stack Cloud Developer (Kotlin),KONE Corporation,Finland,,"Kotlin, web, backend engineering, cloud, innovation careers",Full Stack Development,,englishjobs.fi
+Lead Frontend Excellence Engineer (TypeScript),Not specified,Finland,,"TypeScript, React, Vue, Vite, state management, micro-frontend architectures",Frontend Development,,englishjobs.fi
+Senior Backend Developer (MQTT/Vue),Not specified,Finland,,"Vue.js, React, MQTT-based communication and messaging architectures",Backend Development,,englishjobs.fi
+Frontend Developer (Connected Services),Not specified,Finland,,"Modern frontend frameworks, scalable web applications, 24/7 services",Frontend Development,,englishjobs.fi
+Java/Go/Scala Backend Developer,Not specified,Finland,,"TypeScript, Go, Scala, Java teamwork and communication",Backend Development,,englishjobs.fi
+Middleware Systems Engineer (Java),Not specified,Finland,,"Linux, Windows Server, Java middleware installation and configuration",IT Support/Systems,,englishjobs.fi
+Embedded Software Developer (Yocto/SIP),Not specified,Finland,,"Yocto, SIP/Asterisk, Java knowledge, embedded systems",Embedded/IoT,,englishjobs.fi
+Multi-language Backend Developer,Not specified,Finland,,"TypeScript, Go, Scala, Java, C#, Python multi-language stack",Backend Development,,englishjobs.fi
+Full Stack Developer (Java 6+ years),Not specified,Finland,,6+ years Java software development experience,Full Stack Development,,englishjobs.fi
+Frontend Developer (Component Framework),Not specified,Finland,,"Component-oriented frontend framework, modern frontend development",Frontend Development,,englishjobs.fi
+Full Stack Developer (JS/Node/Java/Python),Not specified,Finland,,"JavaScript, HTML, CSS, Node.js, Java, Python full-stack experience",Full Stack Development,,englishjobs.fi
+Mobile Developer (Java/Kotlin/Swift),Not specified,Finland,,2+ years mobile programming languages - Java/Kotlin or Swift,Mobile Development,,englishjobs.fi
+Computer Science Graduate Developer,Not specified,Finland,,"Computer science principles, Python or Java proficiency",Software Development,,englishjobs.fi
+AI-Native Developer (C#/.NET/Node.js),QOCO Systems,Finland,,"C#/.NET or Node.js backend, scalable systems, AI-native rethinking",Backend Development,,englishjobs.fi
+Senior Software Developer (SaaS),Not specified,Finland,,"Full-stack development skills, Node.js or C#/.NET backend",Full Stack Development,,englishjobs.fi
+High-Availability Backend Developer (Python/Rust),Not specified,Finland,,"Python, Rust, high-availability, low-latency backend services",Backend Development,,englishjobs.fi
+Developer Experience Engineer,Not specified,Finland,,"Developer productivity tooling, DevX improvement",DevOps/Cloud,,englishjobs.fi
+Senior Backend Software Engineer (Platform),Not specified,Finland,,"Backend systems ownership, customer-facing platform reliability",Backend Development,,englishjobs.fi
+Firmware Developer (Wireless/Nordic Semiconductor),Not specified,Finland,,"C/C++, embedded software, wireless devices, Nordic Semiconductor platform, RTOS",Embedded/IoT,,englishjobs.fi
+Platform Engineer (Developer Experience Friction),Not specified,Finland,,"Product engineering collaboration, operational friction reduction",DevOps/Cloud,,englishjobs.fi
+SRE/Cloud/Systems Engineer (Platform),Not specified,Finland,,"Site Reliability Engineering, Cloud Engineering, Systems Engineering background",DevOps/Cloud,,englishjobs.fi
+R&D Engineer (Semiconductor/Embedded/Web),Swedium Global,Finland,,"Semiconductor Engineering R&D, Embedded Systems, Custom Application, Web development",Embedded/IoT,,englishjobs.fi
+Test Automation Engineer (Python Scripting),Not specified,Finland,,"Test automation, scripting, Python",QA/Testing,,englishjobs.fi
+Fault-Finding Software Engineer (Electronics),Not specified,Finland,,"Electronics, mechanics, materials, processes fault-finding for software",Software Development,,englishjobs.fi
+Software Engineering Manager (Graphics Systems),Not specified,Finland,,"C, C++, graphics system leadership, cross-functional teams",Software Development,,englishjobs.fi
+Software Engineering Manager (Open Source Cloud),Not specified,Finland,,"Linux, Ubuntu, Kernel, Ceph, OpenStack, Kubernetes, open source transition leadership",Software Development,,englishjobs.fi
+"Software Engineer (Digital Services, Oriola)",Oriola Finland,Finland,,"Digital services reliability, customer-facing systems",Software Development,,englishjobs.fi
+"Senior Software Engineer (React Native, Multi-country)",Not specified,"Finland, Germany, Poland",,"React Native, scalable mobile architectures, Bachelor's CS/Software",Mobile Development,,englishjobs.fi
+Cloud Fullstack Software Developer (Consultant),Not specified,Finland,,"Semiconductor R&D, Embedded Systems, Custom Application Software, try-and-hire basis",Full Stack Development,,englishjobs.fi
+Market Size Data: Backend Developer roles,Aggregate,Finland,,327 active backend developer English-speaking job listings,Backend Development,,englishjobs.fi (aggregate count)
+Market Size Data: Frontend Developer roles,Aggregate,Finland,,256 active frontend developer English-speaking job listings,Frontend Development,,englishjobs.fi (aggregate count)
+Market Size Data: Software Engineering roles,Aggregate,Finland,,1587 active software engineering English-speaking job listings,Software Development,,englishjobs.fi (aggregate count)
+Market Size Data: Java roles,Aggregate,Finland,,Multiple active Java English-speaking job listings across sectors,Backend Development,,englishjobs.fi (aggregate count)
+AI Platform Engineer,Not specified,Finland,,"8+ years software engineering, 3+ years Software Development/Engineering Manager",AI/ML,,englishjobs.fi
+Software Engineer (DevOps/Security/Platform),OP Pohjola,Finland,,"DevOps, automation, security, platform engineering",DevOps/Cloud,,englishjobs.fi
+Platform Engineering Consultant,Polar Squad,Finland,,"Public cloud AWS/Azure/GCP, infrastructure, 10+ years experience",DevOps/Cloud,,englishjobs.fi
+Flight Software Engineer,Not specified,Espoo,,"Embedded platform, LLM-based engineering familiarity",Embedded/IoT,,englishjobs.fi
+Embedded Software Engineer (SAR Satellites),ICEYE,Finland,,"Embedded software systems, satellite technology",Embedded/IoT,,englishjobs.fi
+Software Consultant,Netlight Helsinki,Helsinki,,"Software products, technical solutions consulting",Software Development,,englishjobs.fi
+Software Development Intern,Not specified,Finland,,"Hands-on industry experience, internships",Software Development,,englishjobs.fi
+Senior Embedded Software Engineer (GNSS),u-blox,Tampere,,"High Precision and Automotive GNSS, embedded systems",Embedded/IoT,,englishjobs.fi
+Test Software Engineer (IP/IC Verification),Not specified,Tampere,,"QEMU, software/hardware quality and verification",QA/Testing,,englishjobs.fi
+AI-first Embedded Systems Engineer,Not specified,Tampere,,"Embedded systems, Edge AI, industrial domain understanding",Embedded/IoT,,englishjobs.fi
+Platform Engineering Tooling Designer,Not specified,Tampere,,Self-service platform engineering tooling and infrastructure,DevOps/Cloud,,englishjobs.fi
+Test Automation Software Engineer,Not specified,Tampere,,"Test automation tools, engineering efficiency",QA/Testing,,englishjobs.fi
+AI Adoption Lead - Embedded Software,Unikie,Tampere,,"Embedded software, AI tools assessment, safe prompting practices",Embedded/IoT,,englishjobs.fi
+Senior Software Developer,ALTEN Finland,Tampere,,"Hybrid working, experienced software professional",Software Development,,englishjobs.fi
+Backend Developer (Java),Not specified,Helsinki,,"Java, backend development",Backend Development,,englishjobs.fi
+Java Developer - Asset Finance Solutions,Not specified,Finland,,"Java, asset finance domain",Backend Development,,englishjobs.fi
+Platform Team Lead (Backend),Not specified,Finland,,"5+ years backend, infrastructure, product/platform engineering",Backend Development,,englishjobs.fi
+Software Developer - SOK Digital Development,S-ryhmä,Helsinki,,"Full-stack, backend, frontend, DevOps & Developer Experience",Full Stack Development,,englishjobs.fi
+Senior Fullstack Developer,Reaktor,Finland,,Full-stack software development modalities,Full Stack Development,,englishjobs.fi
+Lead Developer (Mobility),Not specified,Finland,,"Software architecture expertise, modern web technologies, backend",Software Development,,englishjobs.fi
+"DevOps Engineer (5 years, IaC)",Not specified,Finland,,"Kubernetes, Docker, OpenStack, Git, CI/CD, Infrastructure as Code",DevOps/Cloud,,englishjobs.fi
+DevOps Engineer (Helsinki Tech Team),EWQ Zone,Helsinki,,"DevOps, modern infrastructure, cloud platform growth",DevOps/Cloud,,englishjobs.fi
+DevOps/Data/AI Integration Engineer,Not specified,Finland,,"DevOps, data, AI - intelligent development ecosystem",DevOps/Cloud,,englishjobs.fi
+Service Engineer (Technical),Not specified,Finland,,"Suitable education, previous similar role experience",IT Support/Systems,,englishjobs.fi
+Building Automation Maintenance Engineer,Not specified,Finland,,Building automation systems maintenance,IT Support/Systems,,englishjobs.fi
+Senior Automation Engineer,Not specified,Kotka,,"Equipment & Maintenance, automation engineering",Embedded/IoT,,englishjobs.fi
+Senior Software Engineer (IAM),Enigma,Helsinki,,"Identity and Access Management, feature architecture",Cybersecurity,,englishjobs.fi
+Senior Computer Vision & Graphics Engineer,Not specified,Finland,,"Computer vision, graphics, automotive",AI/ML,,englishjobs.fi
+Senior Software Engineer - Industrial Measurements,Not specified,Helsinki,,Industrial measurements software development,Software Development,,englishjobs.fi
+Senior Electrical Power Systems Engineer,Cyient,"Vaasa, Pietarsaari",,"Electrical Center of Excellence, power systems",Embedded/IoT,,englishjobs.fi
+Software Developer (Bachelor's CS),Not specified,Finland,,"Bachelor's degree Computer Science, Software Engineering",Software Development,,englishjobs.fi
+Senior Software Developer (Digital Solutions),Not specified,Finland,,Several years professional software development,Software Development,,englishjobs.fi
+Developer Experience Platform Engineer,Not specified,Finland,,"Product mindset, internal developer platform engineering",DevOps/Cloud,,englishjobs.fi
+Automation Developer Experience Engineer,Not specified,Finland,,"Developer experience around automation, engineering ecosystem",DevOps/Cloud,,englishjobs.fi
+"Embedded Software Developer (CODESYS/C, Freelance)",Not specified,Turku / Tampere / Hybrid,,"CODESYS, C programming, industrial R&D",Embedded/IoT,,englishjobs.fi
+Software Engineering Manager (Cloud Transition),Not specified,Finland,,"Ubuntu, Kernel, Ceph, OpenStack, Kubernetes, open source",Software Development,,englishjobs.fi
+Software Engineer - E-commerce Platform,RB Global Inc.,Finland,,"E-commerce software platform, scalable fault-tolerant products",Software Development,,englishjobs.fi
+Full Software Engineer,Not specified,Helsinki,,Full-time software engineering role,Software Development,,englishjobs.fi
+Full Stack Developer,Reaktor,Finland,,"Full software development lifecycle, front-end to production",Full Stack Development,,englishjobs.fi
+Computer Vision Researcher (Biodiversity),Not specified,Finland,,"Computer vision, machine learning, environmental/biodiversity research",AI/ML,,englishjobs.fi
+Researcher - Computer Vision and Pattern Recognition,LUT University,Finland,,Computer Vision and Pattern Recognition Laboratory,AI/ML,,englishjobs.fi
+Doctoral Researcher - Telecommunications,Tampere University,Tampere,,"Electrical engineering, physics, mathematics, computer science",Software Development,,englishjobs.fi
+Research Group Member - Audio/Speech/Imaging,Not specified,Finland,,"Audio and speech processing, imaging, computer vision research",AI/ML,,englishjobs.fi
+Researcher - Biological/Computer Sciences,Aalto University,Finland,,"Biological sciences, computer science, mathematics",AI/ML,,englishjobs.fi
+IT Communications Specialist,Not specified,Finland,,"Communication strategy, IT division, enterprise messaging",IT Support/Systems,,Glassdoor
+Cloud/Platform Technology Consultant,Not specified,Finland,,"8+ years cloud, platform, application technology",DevOps/Cloud,,Glassdoor
+Martech Developer (Mobile-first),Not specified,Finland,,"Mobile-first web design, TypeScript, JavaScript, React",Mobile Development,,Glassdoor
+Embedded/Mobile Communications Developer,Casambi Technologies,Finland,,"C/C++, embedded devices, mobile apps, cloud services",Mobile Development,,Glassdoor
+Mobile Developer (Android/iOS),Not specified,Finland,,"Android Kotlin, iOS Swift",Mobile Development,,Glassdoor
+Flutter Developer,Not specified,Finland,,"Flutter, full-stack app architecture",Mobile Development,,Glassdoor
+Mobile Game Architect,Not specified,Finland,,"10+ years game development, scalable mobile game architecture",Mobile Development,,Glassdoor
+Game Backend Developer (Payments),Not specified,Finland,,"Payment integrations, mobile payments, server-side tech",Mobile Development,,Glassdoor
+React Native Developer,Not specified,Finland,,"React Native, modern JavaScript/TypeScript, mobile app deployment",Mobile Development,,Glassdoor
+Senior Native Mobile Developer,Reaktor,Helsinki,,"Native iOS and Android development, Gaming & Entertainment",Mobile Development,,Glassdoor
+Senior iOS Developer (Cloud Gaming),Not specified,Finland,,"iOS development, cloud gaming service, scalable architecture",Mobile Development,,Glassdoor
+Android Developer (Native),Not specified,Finland,,Native Android development,Mobile Development,,Glassdoor
+iOS Engineer (Mobile Architecture),Not specified,Finland,,"SPM, Async/Await, Actors, GraphQL, CI/CD pipelines",Mobile Development,,Glassdoor
+Android Engineer,AlphaSense,Finland,,"Android development, enthusiastic engineer",Mobile Development,,Glassdoor
+Software Architect (Large Systems),Not specified,Finland,,"Designing, implementing, maintaining large software systems",Software Development,,Glassdoor
+Senior Software Engineer (React Native),Not specified,"Finland, Germany, Poland",,"React Native, scalable mobile architectures",Mobile Development,,englishjobs.fi
+Cloud Fullstack Software Developer,Not specified,Finland,,"Semiconductor Engineering R&D, Embedded Systems, Custom Application Software",Full Stack Development,,englishjobs.fi
+IT First-Level Support (Network/Hardware),Not specified,Finland,,"Server, network, hardware, connectivity troubleshooting",IT Support/Systems,Not specified,Glassdoor
+Datacenter Cloud System Engineer,TikTok,Finland,,"Global datacenter tech structure, DCS team",Networking,Not specified,Glassdoor
+Ground Software Systems Engineer,Not specified,Finland,,"Satellite communications, spacecraft database, mission operations",Software Development,Not specified,Glassdoor
+Network & Substation Design Engineer,Not specified,Finland,,"Network calculations, electrical network design",Networking,Not specified,Glassdoor
+Datacenter Safety & Security Engineer,Not specified,Finland,,"Global datacenter operations, safety compliance",Networking,Not specified,Glassdoor
+Automation & Instrumentation Engineer,Not specified,Finland,,"Automation design, HW definition",Networking,Not specified,Glassdoor
+DevOps Observability Engineer,Not specified,Finland,,"Performance, observability, security, monitoring tools, CI/CD",DevOps/Cloud,Not specified,Glassdoor
+Network Engineer (6+ years),Not specified,Helsinki,,"Network administration, network engineering, 6+ years experience",Networking,Not specified,Indeed
+Network Reliability Engineer,Not specified,Finland,,"Scalable network growth, production changes, troubleshooting",Networking,Not specified,Indeed
+Network Security Specialist,Not specified,Finland,,"Network security principles, segmentation, hardware tuning",Cybersecurity,Not specified,Indeed
+Cloud Network Security Engineer,Not specified,Finland,,"Firewalls, network security groups, cloud network security",Cybersecurity,Not specified,Indeed
+Database Administrator (DBA),Air Apps,Finland,,"Managing, optimizing, securing large-scale databases",Database,Not specified,Glassdoor
+IT Systems Administrator,Not specified,Finland,,"Atlassian JIRA Service Ticket Management, systems support",IT Support/Systems,Not specified,Glassdoor
+Linux System Administrator,Not specified,Finland,,"Linux system administration, Debian-based systems, troubleshooting",IT Support/Systems,Not specified,Glassdoor
+Data Centre Systems Specialist,Winthrop Technologies,Finland,,"Turnkey data centre, document management systems",IT Support/Systems,Not specified,Glassdoor
+NOC Technician / Network Analyst,Not specified,Finland,,"NOC operations, wireless engineering, VoIP engineering",Networking,Not specified,Glassdoor
+Service Engineer (Server Hardware),Not specified,Finland,,Server hardware field problem resolution,IT Support/Systems,Not specified,Glassdoor
+Azure Network Architect,Not specified,Finland,,"Azure networking solutions, consultative architecture design",DevOps/Cloud,Not specified,Glassdoor
+IT System Administrator (EU/Ukraine remote),Not specified,Remote,,"IT systems support, documentation, project planning",IT Support/Systems,Not specified,englishjobs.fi
+IT Support Tier 3 (Final Escalation),Not specified,Finland,,"Complex ticket resolution, SLA management, knowledge base",IT Support/Systems,Not specified,englishjobs.fi
+IT Service Desk Manager,Not specified,Finland,,"Service Desk operations, SLA/KPI management",IT Support/Systems,Not specified,englishjobs.fi
+IT Vendor Manager,Not specified,Finland,,"IT vendor management, contract negotiation, budget management",IT Support/Systems,Not specified,englishjobs.fi
+Network Engineer (salary benchmark),Not specified,Turku,,Network Engineering market data,Networking,"Median ~€4,192/month; upper bound ~€7,301/month",englishjobs.fi
+Senior Software Engineer (IAM system),Enigma,Helsinki,,"Identity and Access Management, feature architecture and design",Cybersecurity,Not specified,englishjobs.fi
+Senior Software Engineer (Fleet Automation),Not specified,Finland,,Fleet automation infrastructure,Software Development,Not specified,englishjobs.fi
+"Frontend Developer (5+ years, React/Vue/Angular)",Not specified,Finland,,"React, Vue, Angular, 5+ years customer project experience",Frontend Development,,Glassdoor
+Full Stack Developer (Frontend+Backend),Not specified,Finland,,"JavaScript/TypeScript, HTML, CSS, Vue frontend framework",Full Stack Development,,Glassdoor
+AI Solutions Developer (Frontend/Tools),Not specified,Finland,,"AI-powered solutions, prototypes to production, frontend tools",AI/ML,,Glassdoor
+Frontend Developer (Angular/JavaScript),Not specified,Finland,,"Angular, JavaScript, HTML5, REST web services integrations",Frontend Development,,Glassdoor
+Senior Full Stack Developer / Tech Lead,Not specified,Finland,,"Frontend, backend frameworks, cloud ecosystems, AI expertise",Full Stack Development,,Glassdoor
+"Frontend Developer (TypeScript, Testing)",Not specified,Finland,,"TypeScript, tests, experiments, visualizing results",Frontend Development,,Glassdoor
+"Frontend Developer (React.js, Data Modeling)",Not specified,Finland,,"React.js, data modeling, frontend technologies",Frontend Development,,Glassdoor
+Web Developer (React/Vue/Angular),Not specified,Finland,,"HTML, CSS, JavaScript frameworks - React, Vue, Angular, UI/UX collaboration",Frontend Development,,Glassdoor
+"Frontend Developer (3+ years, State Management)",Not specified,Finland,,"HTML, CSS, JavaScript, React/Vue/Angular, Redux, Vuex, Zustand",Frontend Development,,Glassdoor
+Frontend Developer (Heroku/AWS Stack),Not specified,Finland,,"React, Angular, Node.js, Heroku, AWS",Frontend Development,,Glassdoor
+AI-Powered Personal Planner Developer,Air Apps,Finland,,"End-to-end feature shipping, startup environment, measurable outcomes",Full Stack Development,,Glassdoor
+"Web Developer (Cross-browser, APIs)",Not specified,Finland,,"Performance optimization, cross-browser compatibility, API integration",Frontend Development,,Glassdoor
+Frontend Developer (Component Architecture),Not specified,Finland,,"Reusable components, maintainable front-end architectures",Frontend Development,,Glassdoor
+Frontend/Backend Full Stack (Kotlin/React),KONE Corporation,Finland,,"Kotlin backend, React/Angular/Next.js frontend, TypeScript",Full Stack Development,,englishjobs.fi
+Frontend Staff Engineer (Deep Expertise),Not specified,Finland,,"Deep frontend expertise, staff-level engineering",Frontend Development,,englishjobs.fi
+Frontend Developer (MQTT Messaging),Not specified,Finland,,"Vue.js, React, MQTT-based communication architectures",Frontend Development,,englishjobs.fi
+Full Stack Developer (Service Management),Not specified,Finland,,"Azure Logic Apps, Azure Functions, JavaScript",Full Stack Development,,englishjobs.fi
+Web/Native Performance Engineer,Not specified,Finland,,"C++, C#, JavaScript, native and browser boundary optimization",Software Development,,englishjobs.fi
+Frontend Developer (Basic React),Not specified,Finland,,"JavaScript, React framework basics",Frontend Development,,englishjobs.fi
+Full Stack Developer (Multi-tech Stack),Not specified,Finland,,"Java, Node.js, .NET/C#, React, TypeScript, JavaScript",Full Stack Development,,englishjobs.fi
+Backend Developer (PHP/Vue/React Polyglot),Hostaway,Finland,,"Go services, PHP monolith, React frontend, polyglot stack",Backend Development,,englishjobs.fi
+PHP Developer (Laravel/Vue.js),Not specified,Finland,,"Laravel Framework, PHP, Vue.js",Backend Development,,englishjobs.fi
+JavaScript Developer (React/Next.js Builder),Not specified,Finland,,"JavaScript, React/Next.js, PHP, builder mentality",Full Stack Development,,englishjobs.fi
+"Frontend Engineer (Observability, Vue/React)",Not specified,Finland,,"Vue, React, observability capabilities, efficient monitoring",Frontend Development,,englishjobs.fi
+Full Stack Developer (PHP/Vue/TypeScript/AWS),Not specified,Finland,,"PHP, Vue.JS, TypeScript, React, AWS cloud",Full Stack Development,,englishjobs.fi
+Frontend Developer (Testing Frameworks),Not specified,Finland,,"Vitest, React Testing Library, component testing",Frontend Development,,englishjobs.fi
+Salesforce Developer (Apex/Lightning),Not specified,Finland,,"Apex, Lightning Web Components, Visualforce, Angular, React",Backend Development,,englishjobs.fi
+Full Stack Developer (Database-focused),Not specified,Finland,,"PostgreSQL, MS SQL Server, Oracle, JavaScript basics, containerization",Full Stack Development,,englishjobs.fi
+Test Automation Engineer (5+ years),Not specified,Finland,,"Java, test automation, 3+ years recent experience",QA/Testing,Not specified,Glassdoor
+Embedded Test Engineer (HIL/LabVIEW),Not specified,Finland,,"HIL testing, LabVIEW, manual testing, embedded systems",QA/Testing,Not specified,Glassdoor
+Mobile Test Automation Engineer,Not specified,Finland,,"Mobile test automation, QA community collaboration",QA/Testing,Not specified,Glassdoor
+QA Engineer (Robot Framework),Not specified,Finland,,"Robot Framework, manual + automated testing",QA/Testing,Not specified,Glassdoor
+QA Practice Lead,Not specified,Finland,,"QA tools, workflows, testing approach evolution",QA/Testing,Not specified,Glassdoor
+Load/Performance Test Engineer,Not specified,Finland,,"Load/performance testing, Version One, Jira",QA/Testing,Not specified,Glassdoor
+Test Automation Engineer (UI/API/DB),Not specified,Finland,,"UI testing, API testing, database testing, Java",QA/Testing,Not specified,Glassdoor
+Embedded Software Test Engineer,Not specified,Finland,,"Embedded software testing, firmware integration, C programming",QA/Testing,Not specified,Glassdoor
+QA Automation Strategist,Not specified,Finland,,"Integration, performance, acceptance, exploratory, alpha/beta testing",QA/Testing,Not specified,Glassdoor
+Manual + Automated QA Tester,Not specified,Finland,,"Manual testing, automated testing, QA engineer role",QA/Testing,Not specified,Glassdoor
+QA Automation Trainee,Not specified,Finland,,"Industrial automation projects, mentored trainee role",QA/Testing,Not specified,Glassdoor
+Software Test Engineer (Playwright/Robot Framework),Not specified,Finland,,"Playwright, Robot Framework, test automation methodologies",QA/Testing,Not specified,Glassdoor
+Senior QA Engineer - Payments (Remote),GR8 Tech,Finland (Remote),,"API integrations, payment flows, test automation, Agile",QA/Testing,Not specified,remoterocketship.com
+Senior QA Engineer - Gaming (Remote),Not specified,Finland (Remote),,"Cross-platform QA, mentoring junior engineers",QA/Testing,Not specified,remoterocketship.com
+Senior Quality Engineer - Community Platform (Remote),Circle,Finland (Remote),,"Quality practices, test automation, cross-team collaboration",QA/Testing,Not specified,remoterocketship.com
+QA Engineer - Publishing Tools (Remote),Reedsy,Finland (Remote),,Software quality testing and maintenance,QA/Testing,Not specified,remoterocketship.com
+QA Engineer - Crypto Payments (Remote),CoinsPaid,Finland (Remote),,"Python-based automation, CI/CD quality gates",QA/Testing,Not specified,remoterocketship.com
+Quality Engineer - Mobile/API (Remote),Testlio,Finland (Remote),,"Mobile test automation, API test automation",QA/Testing,Not specified,remoterocketship.com
+Senior FullStack QA Engineer - Crypto (Remote),CoinsPaid,Finland (Remote),,"Crypto payment solutions QA, remote team across 30+ countries",QA/Testing,Not specified,remoterocketship.com
+QA Engineer - No-code Mobile Platform (Remote),AppMySite,Finland (Remote),,No-code mobile app platform QA,QA/Testing,"Average ~€77,865/year (remote QA, Finland)",remoterocketship.com
+QA Lead (Greenfield),Distance,Helsinki,,"QA roadmap definition, visual regression, release QA ownership",QA/Testing,Not specified,englishjobs.fi
+QA Administrator,Not specified,Finland,,QA administration and coordination,QA/Testing,Not specified,englishjobs.fi
+QA/RA Manager,Not specified,Finland,,Quality Assurance / Regulatory Affairs management,QA/Testing,Not specified,englishjobs.fi
+Flight Software / Test-Validation Engineer,Not specified,Finland,,"Flight software, test automation, ground segment",QA/Testing,Not specified,englishjobs.fi
+OTA Solution Software Developer,Keysight Technologies,Finland,,"OTA test solutions, RF components, API creation",Software Development,Not specified,englishjobs.fi
+Technical Support Consultant (Self-service APIs),Enfuce,Finland,,"APIs, dashboards, self-service tools, technical consultation",IT Support/Systems,Not specified,Glassdoor
+"Technical Support Specialist (2nd line, Payments)",Enfuce,Finland,,"Payments industry, 2nd line support, troubleshooting, card issuing",IT Support/Systems,Not specified,Glassdoor
+Customer Success Manager (n8n Workflows),Not specified,Finland,,"n8n workflow automation, technical basics, upsell/cross-sell",IT Support/Systems,Not specified,Glassdoor
+Customer Success Manager (Presales),Not specified,Finland,,"Customer success, presales, management consulting, success playbooks",Project Management,Not specified,Glassdoor
+Customer Care Support (Jira/Salesforce),Not specified,Finland,,"Jira, Salesforce, issue tracking, customer interaction documentation",IT Support/Systems,Not specified,Glassdoor
+Customer Data Platform (CDP) Product Manager,Not specified,Finland,,"Customer Data Platform, product feedback analysis, usage patterns",Product Management,Not specified,Glassdoor
+Motors Portfolio Product Strategy Lead,Not specified,Finland,,"Market trends, voice of customer, competitive analysis, segmentation",Product Management,Not specified,Glassdoor
+Sales Process Manager (End-to-end),Not specified,Finland,,"End-to-end sales process, strategy setting, performance reporting",Project Management,Not specified,Glassdoor
+Lead Security Engineer (Detection/Response),Not specified,Finland,,"Signals engineering, incident response, Microsoft Defender, Sentinel",Cybersecurity,Not specified,englishjobs.fi
+Head of Business Analytics (Presales Lead),NCEE,Finland,,"Technical presales, budget management, public safety projects",Data Analytics,Not specified,englishjobs.fi
+Senior Gameplay Animator (Motion Capture),Not specified,Finland,,"In-game animations, motion capture, keyframing, character/weapon design",Game Development,Not specified,englishjobs.fi
+Senior OneStream Lead Architect,Not specified,Finland,,"OneStream, C#, VB.net, data integration, finance processes, FP&A",Backend Development,Not specified,englishjobs.fi
+Principal Consultant Technology (SAP S/4HANA),Infosys,Finland,,"SAP S/4HANA, solution architecture, delivery excellence",IT Support/Systems,Not specified,englishjobs.fi
+Senior Consultant (EXFO Nova/SPARQL/RHEL),EXFO,Finland,,"Nova Context, Pronto, SPARQL, RHEL 7/8/9",IT Support/Systems,Not specified,englishjobs.fi
+Purchasing Solutions Consultant (Procurement Cloud),Not specified,Finland,,Procurement Management Cloud Applications configuration,IT Support/Systems,Not specified,englishjobs.fi
+Senior IGA Consultant (Identity Governance),Not specified,Vaasa,,"IBM Security Verify Governance (ISIM), identity governance",Cybersecurity,Not specified,englishjobs.fi
+Customer Data Consultant (Transformation),Not specified,Finland,,"Customer data transformation, consulting delivery",Data Analytics,Not specified,englishjobs.fi
+Manufacturing Cloud Consultant (Salesforce),Not specified,Finland,,"Salesforce Manufacturing Cloud, Advanced Administrator, Application Architect",Backend Development,Not specified,englishjobs.fi
+Chief Consultant - Compressor Stations,Not specified,Finland,,"Industrial solutions, compressor station technical environment",Software Development,Not specified,englishjobs.fi
+"Solution Consultant (Banking, Tietoevry)",Tietoevry,Finland,,"Banking solutions, customer requirements management",Backend Development,Not specified,englishjobs.fi
+Solution Engineering Fullstack Developer (Espoo),Not specified,Espoo,,"AI-assisted, agentic engineering, Solution Engineering team",Full Stack Development,Not specified,englishjobs.fi
+Platform Engineering Consultant (Thought Leadership),Polar Squad,Finland,,"AWS, Azure, GCP, platform engineering, 10+ years, community writing",DevOps/Cloud,Not specified,englishjobs.fi
+Software Engineering Intern (Multiple Domains),Not specified,Finland,,"Fullstack, Backend, Data Engineering, Cloud, Architecture, Web Dev, DevOps",Software Development,Not specified,englishjobs.fi
+Technical Solution Sales Engineer (Wireless),Not specified,Helsinki,,"Wireless technology sales, technical solution engineering",IT Support/Systems,"€2,630-3,184/month range",englishjobs.fi
+"Salesforce Consultant (IT Consulting, Helsinki)",Not specified,Helsinki,,"Salesforce platform, IT consulting skills",Backend Development,"€57,500/year average",Glassdoor/PayScale
+Developer Salesforce (Average),Not specified,Finland,,"Salesforce development, average market rate",Backend Development,"€75,847/year average",salaryexpert.com
+Salesforce Account Executive,Salesforce,Finland,,"Salesforce platform, account management, sales",Project Management,"$219,849/year median (global benchmark)",Glassdoor
+Salesforce Software Engineer,Salesforce,Finland,,Salesforce platform engineering,Backend Development,"$205,535/year median (global benchmark)",Glassdoor
+Service Delivery Lead (Salesforce Implementation),Not specified,Helsinki,,"Large-scale Salesforce implementation, continuous services management",Project Management,Not specified,Glassdoor
+Sales/Product Marketing Collateral Creator,Not specified,Helsinki,,"Sales collateral creation, cross-functional marketing collaboration",Product Management,Not specified,Glassdoor
+Cybersecurity/SaaS Content Marketer,Not specified,Helsinki,,"Cybersecurity marketing, SaaS content, campaign collaboration",Cybersecurity,Not specified,Glassdoor
+QA Engineer - Salesforce Specialist (Contract),Not specified,Helsinki,,"Salesforce QA testing, 1-year contract role",QA/Testing,Not specified,Glassdoor
+Salesforce Developer (Sales/Marketing/Support),Not specified,Helsinki,,"Salesforce solutions design, development, maintenance",Backend Development,Not specified,Glassdoor
+AI Developer Trainee (B2B Media),Not specified,Helsinki,,"AI applications, digital marketing, media sales industry",AI/ML,Not specified,Glassdoor
+Senior Security Engineer (Salesforce Platform),Not specified,Helsinki,,"Salesforce security features, evolving threat protection",Cybersecurity,Not specified,Glassdoor
+Partner Sales Platform Developer,Not specified,Finland,,"Partner sales channel, business platform development (Framery case)",Backend Development,Not specified,Glassdoor
+Subscription/Renewal Business Trainee,Not specified,Finland,,"Subscription models, renewal models, B2B business processes",Project Management,Not specified,Glassdoor
+"DevOps Platform Engineer (Salesforce, Copado)",Copado,Finland,,"Azure DevOps, GitHub Actions, Jenkins, Salesforce DevOps platform",DevOps/Cloud,Not specified,englishjobs.fi
+AI-native DevOps Visionary (Cloud/Salesforce),Copado,Finland,,"AI-native DevOps, enterprise cloud teams, emerging trends",DevOps/Cloud,Not specified,englishjobs.fi
+Cloud/DevOps Solutions Architect (Azure Pipelines),Not specified,Finland,,"Azure cloud services, Azure DevOps pipelines, GitHub Actions",DevOps/Cloud,Not specified,englishjobs.fi
+AI/DevOps Community Engineer,Not specified,Finland,,"AI, DevOps, cloud software development community",DevOps/Cloud,Not specified,englishjobs.fi
+"Content Manager (Digital Marketing, Lyko Finland)",Lyko Finland,Finland,,"Social media strategy, content calendar, UGC, influencer marketing",Software Development,Not specified,englishjobs.fi
+Master's Degree Software Engineering Graduate,Not specified,Finland,,"Computer Science, Software Engineering, IT, Data Science background",Software Development,Not specified,englishjobs.fi
+Netlight Consultant (Software Products),Netlight,Helsinki,,"Software products, technical solutions consulting",Software Development,Not specified,englishjobs.fi
+Engineering Excellence Culture Lead,Not specified,Finland,,"Modern software engineering practices, culture building",Software Development,Not specified,englishjobs.fi
+Infrastructure Services Portfolio Manager (Dustin),Dustin,Finland,,"Infrastructure Services portfolio, customer needs translation",IT Support/Systems,Not specified,englishjobs.fi
+Employment Services IT Support (Mäntsälä),Not specified,Mäntsälä,,"Customer service, administrative IT support tasks",IT Support/Systems,Not specified,englishjobs.fi
+Kelan Remote Customer IT Point Advisor,Not specified,Finland,,"Remote customer point, Vinkin service desk support",IT Support/Systems,Not specified,englishjobs.fi
+B2B SaaS Customer Service Platform Lead,Not specified,Finland,,"Outbound/inbound sales, customer service cloud platform",IT Support/Systems,Not specified,englishjobs.fi
+Scale-up B2B SaaS Support Specialist,Not specified,Finland,,"Scale-up environment, international B2B SaaS support",IT Support/Systems,Not specified,englishjobs.fi
+IT Skills Customer Point Assistant,Not specified,Finland,,"Good IT skills, various systems usage, customer orientation",IT Support/Systems,Not specified,englishjobs.fi
+Junior Functional SAP Consultant (FI/CO or MM),Vincit,Helsinki,,"SAP ERP, FI/CO Finance and Controlling module, MM Materials Management module",IT Support/Systems,,Glassdoor
+SAP Service Consultant (ECC CS/S4HANA),Not specified,Finland,,"SAP ECC CS, SAP S/4HANA Service, SAP Service process design and configuration, 5+ years",IT Support/Systems,,Glassdoor
+SAP Integration Consultant (Salesforce),Not specified,Finland,,"SAP integrations, Salesforce, field service tools, end-to-end processes",IT Support/Systems,,Glassdoor
+SAP BTP Techno-Functional Consultant,Not specified,Finland,,"SAP Business Technology Platform, techno-functional consulting",IT Support/Systems,,eursap.eu
+SAP PP Consultant (Production Planning),Not specified,Finland,,"SAP PP Production Planning expertise, 2+ full project cycles",IT Support/Systems,,englishjobs.fi
+Implementation Consultant (Thomson Reuters),Thomson Reuters,Finland,,"Implementation consulting, broad responsibility range",IT Support/Systems,,englishjobs.fi
+SAP IDM Consultant (Contract),Not specified,Vaasa,,"SAP Identity Management (IDM), contract-based project work",Cybersecurity,,englishjobs.fi
+ERP Functional Analyst / Business Process Consultant,Not specified,Finland,,"ERP functional analysis, business process consulting",IT Support/Systems,,allodoojobs.com
+Odoo Deployment Consultant / Implementation Specialist,Not specified,Finland,,"Odoo ERP deployment, implementation specialization",IT Support/Systems,,allodoojobs.com
+Odoo Support Engineer / Systems Administrator,Not specified,Finland,,"Odoo systems support, system administration",IT Support/Systems,,allodoojobs.com
+Odoo UI/UX Developer / Frontend Engineer,Not specified,Finland,,"Odoo UI/UX development, frontend engineering",Frontend Development,,allodoojobs.com
+Odoo Integration Engineer / Automation Developer,Not specified,Finland,,"Odoo integrations, automation development",Backend Development,,allodoojobs.com
+Odoo Implementation Manager / ERP Project Lead,Not specified,Finland,,"Odoo ERP implementation management, project leadership",Project Management,,allodoojobs.com
+Odoo ERP Business Consultant / Data Analyst,Not specified,Finland,,"Odoo ERP business consulting, data and process analysis",Data Analytics,,allodoojobs.com
+Odoo QA Engineer / Test Specialist,Not specified,Finland,,"Odoo quality assurance, test specialization",QA/Testing,,allodoojobs.com
+Odoo Solutions Engineer / Presales Consultant,Not specified,Finland,,"Odoo solutions engineering, presales consulting",IT Support/Systems,,allodoojobs.com
+SAP Solutions Developer (Global),SAP,Finland,,"SAP technology, elegant solutions development, multi-device compatibility",Backend Development,,jobs.sap.com
+"SAP Consultant (Remote, Brazil-based pay structure)",Not specified,Remote,,"SAP consulting, remote engagement, permanent contract",IT Support/Systems,,eursap.eu
+"SAP Consultant (France, Contract)",Not specified,Remote,,"SAP consulting, French language, contract role",IT Support/Systems,,eursap.eu
+Senior Data Engineer (End-to-End Platform),Enfuce,Finland,,"Data platform ownership, data ingestion, processing, serving reliable data",Data Engineering,,Glassdoor
+Data Engineer (Cross-Nordic Team),MTV/TV4 Sweden,Finland,,"Data platform development, data products, cross-Nordic collaboration",Data Engineering,,Glassdoor
+Data Security Engineer (Media Tracking),Not specified,Finland,,"Data security, media tracking, data erasure verification",Cybersecurity,,Glassdoor
+Data Pipeline Engineer (Orchestration),Not specified,Finland,,"Data pipelines, orchestration tools, data delivery reliability",Data Engineering,,Glassdoor
+Data Engineer (Microsoft Fabric/Databricks),Not specified,Finland,,"Microsoft Fabric, Databricks, Snowflake",Data Engineering,,Glassdoor
+UX/UI Designer (Data-heavy interfaces),SSH Communications Security,Finland,,"Dashboards, admin tools, data-heavy interface design",UI/UX Design,,Glassdoor
+Data Quality Engineer,Not specified,Finland,,"Data quality assurance, availability, collaboration with analysts",Data Engineering,,Glassdoor
+Reliability Engineer (Field Systems),Not specified,Finland,,"Code and test systems for field-operating machines, reliability and safety",QA/Testing,,Glassdoor
+"Backend Engineer (Reliability, Go)",Not specified,Finland,,"Go, on-call experience, high-throughput backend services",Backend Development,,Glassdoor
+Cloud-Native Engineer (Payments),Enfuce,Finland,,"Cloud-native technology, payments expertise, scale",DevOps/Cloud,,Glassdoor
+Data Pipeline Reliability Engineer,Not specified,Finland,,"Pipeline monitoring, performance optimization, platform evolution",Data Engineering,,Glassdoor
+MLOps Reliability Engineer,Not specified,Finland,,"AI/ML production deployment, reliability, monitoring, lifecycle management",AI/ML,,Glassdoor
+Cloud Security-First Infrastructure Engineer,Not specified,Finland,,"Infrastructure-first mindset, security practices integration",DevOps/Cloud,,Glassdoor
+DevOps Cloud Engineer (CI/CD),Not specified,Finland,,"Cloud and DevOps practices, CI/CD, observability, reliability, security",DevOps/Cloud,,Glassdoor
+ML Data Pipeline Engineer,Not specified,Finland,,"Data pipeline design, model reliability, production performance",Data Engineering,,Glassdoor
+AI Agent Evaluation Engineer,Not specified,Finland,,"Evaluation frameworks for AI agents, LLM-based agents, reasoning systems",AI/ML,,Glassdoor
+"Full Stack Engineer (AI-assisted, Reliability)",Not specified,Finland,,"AI-assisted engineering, architecture, maintainability, test coverage",Full Stack Development,,Glassdoor
+Application Software Engineer (MATLAB/Simulink),Danfoss Drives,Finland,,"MATLAB, Simulink, model-based software development",Software Development,,englishjobs.fi
+Software Quality Engineer (Mobile/Proxy Tools),Not specified,Finland,,"Charles Proxy, Proxyman, Firebase Crashlytics, 7+ years QA experience",QA/Testing,,englishjobs.fi
+CNC/Software Integration Engineer,Not specified,Finland,,"Teknomat Masterwood, Biesse Rover B, BSolid software",Embedded/IoT,,englishjobs.fi
+Data Pipeline Software Engineer (BigQuery/Synapse),Not specified,Central Finland,,"BigQuery, Synapse, data pipeline design/optimization",Data Engineering,,englishjobs.fi
+Software Engineer (Digital Services Reliability),Not specified,Finland,,"Digital services reliability, customer-facing systems",Software Development,,englishjobs.fi
+Site Reliability Engineer (Kubernetes/Terraform),Not specified,Finland,,"Kubernetes, Terraform, Grafana, Prometheus (industry benchmark)",DevOps/Cloud,,builtin.com
+Senior SRE (Database Infrastructure),Not specified,Finland,,"AWS, ClickHouse, Kubernetes, MySQL, Postgres, Redis",DevOps/Cloud,,builtin.com
+Senior SRE (Observability),Not specified,Finland,,"AWS, Azure, C/C++, Datadog, GCP, Go, Grafana, Java, Linux, Prometheus, Python, Splunk, VMware",DevOps/Cloud,,builtin.com
+AI Product Manager (Integration Platform),Frends iPaaS,Finland,,"AI functionalities, Integration Platform, R&D team collaboration",Product Management,,Glassdoor
+Technical Writer (Multi-channel),Not specified,Finland,,"Exceptional writing skills, multi-channel technical documentation",Software Development,,Glassdoor
+RTL Validation Engineer (Technical Writing),Not specified,Finland,,"RTL code interpretation, validation plans writing, 4+ years experience",Embedded/IoT,,Glassdoor
+AI Data Annotation Specialist,Sigma,Finland,,"Categorization, Annotation, Correction, Transcription, Evaluation, Localization",AI/ML,,Glassdoor
+Technical Support Documentation Specialist,Not specified,Finland,,"Tech support, troubleshooting, documentation maintenance",IT Support/Systems,,Glassdoor
+AI Skills-Job Matching Analyst,Not specified,Finland,,"AI resume-to-job matching technology, skills fit analysis",Data Analytics,,Glassdoor
+"Backend Developer (Go, Feature Shipping)",Not specified,Finland,,"Go, high-throughput backend services, product managers/designers collaboration",Backend Development,,Glassdoor
+Data Engineering/BI/Application Developer,Microsoft,Finland,,"Data engineering, business intelligence, application development",Data Engineering,,Glassdoor
+Datacenter Cloud System Engineer (Global),TikTok,Finland,,"DataCenter Service, Datacenter Cloud System (DCS), global tech structure",DevOps/Cloud,,Glassdoor
+Electrical/Manufacturing Technology Engineer,Not specified,Finland,,"Electrical engineering, manufacturing, materials technology",Embedded/IoT,,Glassdoor
+OT/IT Integration Support Engineer,Not specified,Finland,,"Operational Technology, IT collaboration, daily operations support",IT Support/Systems,,Glassdoor
+Master's Level IT/CS Trainee,Not specified,Finland,,"Information technology, computer science, accounting intersection",Software Development,,Glassdoor
+Wearable Tech Software Engineer,Oura,Oulu,,"Wearable technology software, equal opportunity workplace",Software Development,,Glassdoor
+Product Manager (CTO Collaboration),Resourceful Talent Group,Finland,,"Product requirements, business idea translation, stakeholder collaboration",Product Management,,Glassdoor
+QA Automation Apprentice (Microsoft Partnership),Not specified,Finland,,"Cloud Computing, Cyber Security, Data, Analytics, AI, DevOps apprenticeship pathway",QA/Testing,,Wikipedia/QA company
+Data/Azure Cloud Apprentice,Not specified,Finland,,"Data and Azure Cloud apprenticeship, Microsoft partnership",DevOps/Cloud,,Wikipedia/QA company
