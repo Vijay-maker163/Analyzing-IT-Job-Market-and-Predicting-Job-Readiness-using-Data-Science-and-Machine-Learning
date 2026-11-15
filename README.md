@@ -60,4 +60,4 @@ A random sample of [X] postings was checked against the original pages. The reco
 Small dataset after cleaning, most data from two sources, missing company/city/date in many records, no links saved per record.
 
 ## Author
-[Vijay]
+Vijay
